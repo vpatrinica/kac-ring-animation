@@ -20,7 +20,7 @@
 
 import wx
 from numpy import *
-from scipy.misc import toimage
+from scipy.misc import pilutil
 from PIL import Image
 import Utils
 
