@@ -1,0 +1,35 @@
+
+
+@Article{Comerford1,
+     author    = {Comerford, Mark
+                  },
+     title     = {Hyperbolic non-autonomous Julia sets},
+     journal   = {Ergodic Theory and Dynamical Systems},
+     volume    = {26},
+     year      = {2006},
+     pages     = {353-377},
+     eprint    = {}
+}
+
+@Unpublished{Comerford2,
+     author    = {Comerford, Mark
+                  },
+     title     = {Holomorphic motions of hyperbolic non-autonomous Julia sets},
+     note   = {in submission (written and completed while at IUB)},
+     volume    = {},
+     year      = {},
+     pages     = {},
+     eprint    = {}
+}
+
+@Unpublished{Comerford3,
+     author    = {Comerford, Mark
+                  },
+     title     = {Holomorphic motions of hyperbolic non-autonomous Julia sets},
+     note   = {in preparation (partly written while at IUB)},
+     volume    = {},
+     year      = {},
+     pages     = {},
+     eprint    = {}
+}
+

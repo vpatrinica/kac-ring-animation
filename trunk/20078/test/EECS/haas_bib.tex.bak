@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}
+
+\bibitem{ah06_vis_light}
+M.~Afgani and H.~Haas.
+\newblock Visible light communication using {OFDM}.
+\newblock In {\em Proceedings of the 2nd International Conference on Testbeds
+  and Research Infrastructures for the Development of Networks and Communities
+  (Trident 2006)}, Barcelona, Spain, March 01-06 2006.
+
+\bibitem{bh06_ped_dead_reck}
+S.~Beauregard and H.~Haas.
+\newblock "{Pedestrian Dead Reckoning (PDR) and GPS for Indoor Positioning}".
+\newblock In {\em Proceedings of 3rd Workshop on Positioning, Navigation and
+  Communication ({WPNC}'06)}, Hannover, Germany, March 16 2006.
+
+\bibitem{cvh06_freq_syn}
+S.~Chaudhury, H.~Venkataraman, and H.~Haas.
+\newblock "{Uplink Capacity Comparison of Non-Perfect Frequency Synchronised
+  Cellular OFDM Systems}".
+\newblock In {\em Proceedings of International Wireless Communications and
+  Mobile Computing Conference ({IWCMC} 2006)}, Vancouver (Canada), July 3-6
+  2006.
+
+\bibitem{fagvh06_sch_CDMA}
+E.~Foutekova, P.~Agyapong, B.~Ghimire, H.~Venkataraman, and H.~Haas.
+\newblock "{Scheduling in Cellular TDD-CDMA Networks}".
+\newblock In {\em Proceedings of the International Vehicular Technology
+  Conference ({VTC}) 2006-Fall}, Montreal, Canada, September 25-28 2006. IEEE.
+
+\bibitem{feh06_semi_analytic}
+E.~Foutekova, C.~Evers, and H.~Haas.
+\newblock "{Semi-Analytical Derivation of Interference in TDD-CDMA Systems
+  Employing Random Time Slot Hopping (RTSH)}".
+\newblock In {\em Proceedings of the International Vehicular Technology
+  Conference ({VTC}) 2006-Fall}, Montreal, Canada, September 25-28 2006. IEEE.
+
+\bibitem{asilomar06}
+S.~Ganesan and H.~Haas.
+\newblock "{On the Performance of Spatial Modulation OFDM}".
+\newblock In {\em "{Asilomar Conference on Signals, Systems, and Computers}"},
+  Monterey, CA, USA, October 30 -- November 1 2006. IEEE.
+
+\bibitem{hnona06_iamac}
+H.~Haas, V.~D. Nguyen, P.~Omiyi, N.~H. Nedev, and G.~Auer.
+\newblock "{Interference Aware Medium Access in Cellular OFDMA/TDD Network}".
+\newblock In {\em Proceedings of International Conference on Communications
+  ({ICC} 2006)}, Istanbul, Turkey, June 11-15 2006. IEEE.
+
+\bibitem{tdd_book}
+H.~Harald and S.~McLaughlin, editors.
+\newblock {\em "{Next Generation Mobile Access Technologies: Implementing
+  TDD}"}.
+\newblock Cambridge University Press, Spring 2007.
+
+\bibitem{jhm06_adhoc_tdd_underlay}
+P.~Jain, H.~Haas, and S.~McLaughlin.
+\newblock "{Capacity Enhancement using Ad Hoc Pico-Cells and TDD Underlay}".
+\newblock In {\em Proceedings of the 17th International Symposium on Personal,
+  Indoor and Mobile Radio Communications ({PIMRC} 2006)}, page~5, Helsinki,
+  Finland, September 11-14 2006. IEEE.
+
+\bibitem{mhay06_spatialmod}
+R.~Mesleh, H.~Haas, C.~C. Ahn, and S.~Yun.
+\newblock "{Spatial Modulation -- OFDM}".
+\newblock In {\em Proceedings of the International {OFDM} Workshop}, Hamburg,
+  Germany, August 30-31 2006.
+
+\bibitem{chinacom06}
+R.~Mesleh, H.~Haas, C.~Wook Ahn, and S.~Yun.
+\newblock "{Spatial Modulation -- A New Low Complexity Spectral Efficiency
+  Enhancing Technique}".
+\newblock In {\em "{ChinaCOM 2006}"}, Beijing, China, October 25 -- 27 2006.
+  IEEE.
+
+\bibitem{oha06_tsalloc_insotdd}
+P.~Omiyi, H.~Haas, and G.~Auer.
+\newblock "{Analysis of Intercellular Timeslot Allocation in Self-Organising
+  TDD Cellular Mobile Systems}".
+\newblock In {\em Proceedings of the 17th International Symposium on Personal,
+  Indoor and Mobile Radio Communications ({PIMRC} 2006)}, page 5 pages on CD
+  ROM, Helsinki, Finland, September 11-14 2006. IEEE.
+
+\bibitem{vh06_thru_cap}
+H.~Venkataraman and H.~Haas.
+\newblock "{Throughput Capacity for 2-Hop Hybrid Cellular Networks}".
+\newblock In {\em Proceedings of 6th Scandinavian Workshop on Wireless Ad-hoc
+  Networks ({ADHOC} '06)}, Stockholm (Sweden), May 3-4 2006.
+
+\end{thebibliography}

@@ -1,0 +1,84 @@
+This file was created with JabRef 2.2b2.
+Encoding: Cp1252
+
+@INBOOK{Baltes,
+  chapter = {Wisdom and aging: The royal road toward excellence in mind and character},
+  title = {Cognitive aging: A primer (2nd ed.)},
+  publisher = {Philadelphia, PA: Psychology Press},
+  editor = {D. Park,  N. Schwarz},
+  author = {Baltes, P. B., Kunzmann, U.},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INBOOK{Kunzmann2006a,
+  chapter = {Wisdom},
+  title = {The encyclopedia of aging (4th edition)},
+  publisher = { NY: Springer},
+  year = {2006},
+  editor = {R. Schulz (Editor-in-Chief)},
+  author = {Kunzmann, U},
+  address = {New York},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INBOOK{Kunzmann,
+  chapter = {Wisdom: Adult development and emotional-motivational dynamics},
+  title = {Geropsychology: European perspectives for an ageing world},
+  publisher = {Hogrefe \& Huber.},
+  editor = {R. Fernández-Ballesteros},
+  author = {Kunzmann, U.},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INBOOK{Kunzmann2006,
+  chapter = {Wisdom as a classical human strength: Psychological conceptualizations
+	and empirical inquiry},
+  title = {Varieties of positive experience: Structure, variability, and change},
+  publisher = {Oxford University Press},
+  year = {2006},
+  editor = {A. D. Ong, M. Van Dulmen},
+  author = {Kunzmann, U., Stange, A.},
+  address = {New York, NY},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INBOOK{Scheibe,
+  chapter = {Wisdom and life-longing: Ways of dealing with the potentials and
+	constraints of life},
+  title = {Handbook of Gerontology: Evidence-based approaches to theory, practice,
+	and policy},
+  publisher = {Wiley},
+  editor = {J. A. Blackburn, C. N. Dulmus},
+  author = {Scheibe, S., Kunzmann, U. \& Baltes, P. B},
+  address = {New York, NY},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INBOOK{Stange,
+  chapter = {Fostering wisdom: A psychological perspective},
+  title = { Fostering Wisdom},
+  publisher = {Springer},
+  editor = {M. Ferrari \& G. Potworowski},
+  author = {Stange, A. \& Kunzmann, U.},
+  address = {New York, NY},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_publisher:}
+

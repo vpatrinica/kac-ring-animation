@@ -1,0 +1,35 @@
+This file was created with JabRef 2.2b2.
+Encoding: Cp1252
+
+@ARTICLE{Renner,
+  author = {Renner, B. and Kwon, S. and Paik, K. -C. and Lee, S. and Schwarzer,
+	R.},
+  title = {{S}ocial-cognitive predictors of eating a healthy diet in {S}outh
+	{K}orean men and women},
+  journal = {International Journal of Behavioral Medicin},
+  year = {},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@INCOLLECTION{Six,
+  author = {Renner, B. and Panzer, M. and Oeberst, A.},
+  title = {Risikokommunikation},
+  booktitle = {{L}ehrbuch {K}ommunikationspsychologie},
+  publisher = {Weinheim: Beltz},
+  year = {},
+  editor = {Six, B. and Gleich, U. and Gimmler,W.},
+  note = {(in press)},
+  owner = {Adrian},
+  timestamp = {2006.12.17}
+}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_publisher:}
+

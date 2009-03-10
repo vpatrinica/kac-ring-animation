@@ -1,0 +1,37 @@
+% Redefines the cmtt fonts to be half a magstep larger
+% For use with times and lucida fonts
+
+\renewcommand{\ttdefault}{cmtt}
+
+\DeclareFontFamily{OT1}{cmtt}{\hyphenchar \font\m@ne}
+\DeclareFontShape{OT1}{cmtt}{m}{n}
+     {
+      <5><6><7><8> s * [1.0954] cmtt8 <9> s * [1.0954] cmtt9
+      <10><10.95> s * [1.0954] cmtt10
+      <12><14.4><17.28><20.74><24.88> s * [1.0954] cmtt12
+      }{}
+\DeclareFontShape{OT1}{cmtt}{m}{it}
+     {
+      <5> <6> <7> <8> <9>
+      <10> <10.95> <12> <14.4> <17.28> <20.74> <24.88>  s * [1.0954] cmitt10
+      }{}
+\DeclareFontShape{OT1}{cmtt}{m}{sl}
+     {
+      <5> <6> <7> <8> <9>
+      <10> <10.95> <12> <14.4> <17.28> <20.74> <24.88>  s * [1.0954] cmsltt10
+      }{}
+\DeclareFontShape{OT1}{cmtt}{m}{sc}
+     {
+      <5> <6> <7> <8> <9>
+      <10> <10.95> <12> <14.4> <17.28> <20.74> <24.88>  s * [1.0954] cmtcsc10
+      }{}
+
+\DeclareFontShape{OT1}{cmtt}{bx}{n}
+  {<->ssub * cmtt/m/n}{}
+\DeclareFontShape{OT1}{cmtt}{bx}{it}
+  {<->ssub * cmtt/m/it}{}
+\DeclareFontShape{OT1}{cmtt}{b}{n}
+  {<->ssub * cmtt/bx/n}{}
+\DeclareFontShape{OT1}{cmtt}{b}{it}
+  {<->ssub * cmtt/bx/it}{}
+
