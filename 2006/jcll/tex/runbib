@@ -1,0 +1,2 @@
+ls bu*aux|sed 's/\.aux//g'|xargs -n1 bibtex
+

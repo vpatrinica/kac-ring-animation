@@ -1,0 +1,85 @@
+@Book{ortmanns0,
+  ALTauthor = 	 {Meyer-Ortmanns, Hildegard and Reisz, Thomas},
+  title = 	 {Principles of Phase Structures in Particle Physics},
+  publisher = 	 {World Scientific, Singapore},
+  year = 	 {2006},
+  pages = 	 {1-682}
+}
+
+@Article{ortmanns1,
+     author    = {Radicchi, Filippo and Vilone, Daniele, and Yoon, Sooyeon and Meyer-Ortmanns, Hildegard},
+     title     = {Reducing Frustration in Spin Systems: Social Balance as a Satisfiability Problem of Computer Science },
+     journal   = {to be published in Phys. Rev.E},
+     volume    = {},
+     year      = {2006},
+     pages     = {1-20},
+     eprint    = {cond-mat/0608031}
+     }
+     
+@Article{ortmanns2,
+     author    = {Radicchi, Filippo and Vilone, Daniele and Meyer-Ortmanns, Hildegard},
+     title     = {Universality class of triad dynamics on a triangular lattice},
+     journal   = {submitted to Phys.Rev.E},
+     pages     = {1-9},
+     eprint    = {cond-mat/0610868}
+}
+
+@Article{ortmanns3,
+     author    = {Radicchi, Filippo and Meyer-Ortmanns, Hildegard
+                  },
+     title     = {Entrainment of coupled oscillators on regular networks by pacemakers},
+     journal   = {Phys. Rev.},
+     volume    = {E73},
+     year      = {2006},
+     pages     = {36218 1-7},
+     eprint    = {cond-mat/0508611}
+}
+@Article{ortmanns4,
+     author    = {Radicchi, Filippo and Meyer-Ortmanns, Hildegard
+                  },
+     title     = {Reentrant Synchronization and Pattern Formation in Pacemaker-Entrained Kuramoto Oscillators},
+     journal   = {Phys. Rev.},
+     volume    = {E74},
+     year      = {2006},
+     pages     = {026203 1-9},
+     eprint    = {cond-mat/0608021}
+}
+@Article{ortmanns5,
+     author    = {Tesileanu, Tiberiu and Meyer-Ortmanns, Hildegard
+                  },
+     title     = {Competiton of languages and their Hamming distance},
+     journal   = {Int.J.Mod.Phys.},
+     volume    = {C17},
+     year      = {2006},
+     pages     = {259-277},
+     eprint    = {physics/0508229}
+}
+@Article{ortmanns6,
+     author    = {Yook, Soon-Hyung and Meyer-Ortmanns, Hildegard
+                  },
+     title     = {Synchronization of Rössler oscillators on scale-free topologies},
+     journal   = {Physica },
+     volume    = {A371},
+     year      = {2006},
+     pages     = {781-789},
+     eprint    = {cond-mat/0507422}
+}
+@Article{meyerortmanns1,
+     author    = {Radicchi, Filippo and Vilone, Daniele and Meyer-Ortmanns, Hildegard
+                  },
+     title     = {Phase transition between synchronous and asynchronous updating algorithms},
+     journal   = {submitted for publication},
+     year      = {2006},
+     pages     = {1-4},
+     eprint    = {cond-mat/0611554}     
+}
+@Article{vilone1,
+     author    = {Vilone, Daniele and Castellano, Claudio and Politi, Paolo
+                  },
+     title     = {Fluctuations and scaling in models for particle aggregation},
+     journal   = {Surf. Sci.},
+     volume    = {600},
+     year      = {2006},
+     pages     = {2392},
+     eprint    = {cond-mat/0511380}
+}

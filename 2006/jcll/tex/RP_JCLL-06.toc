@@ -1,0 +1,115 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}An Introduction from the Dean}{1}{section.2}
+\contentsline {section}{\numberline {2}The Neuroscience and Human-Performance Perspective on Lifelong Learning}{3}{section.3}
+\contentsline {subsection}{\numberline {2.1}Plastic-Adaptive Capacity of the Brain: Mechanisms, Effects of Age, Possible Interventions}{3}{subsection.4}
+\contentsline {paragraph}{Research Team}{3}{section*.5}
+\contentsline {paragraph}{Collaborations}{4}{section*.7}
+\contentsline {paragraph}{Grants}{5}{section*.9}
+\contentsline {subsection}{\numberline {2.2}Effects of Cardiovascular and Motor Fitness on Cognitive Performance and Well-Being in Older Adults}{5}{subsection.10}
+\contentsline {paragraph}{Research Team}{5}{section*.11}
+\contentsline {paragraph}{Grants}{6}{section*.14}
+\contentsline {subsection}{\numberline {2.3}Awards, Fellowships}{6}{subsection.15}
+\contentsline {subsection}{\numberline {2.4}Other Professional Activities}{7}{subsection.16}
+\contentsline {section}{\numberline {3}A View on Lifelong Learning from Health and Personality Psychology}{8}{section.17}
+\contentsline {subsection}{\numberline {3.1}Health Psychology}{8}{subsection.18}
+\contentsline {paragraph}{Research Team}{8}{section*.19}
+\contentsline {paragraph}{Collaborations}{10}{section*.21}
+\contentsline {paragraph}{Grants}{10}{section*.23}
+\contentsline {subsection}{\numberline {3.2}Personality Psychology}{11}{subsection.24}
+\contentsline {paragraph}{Research Team}{11}{section*.25}
+\contentsline {subsection}{\numberline {3.3}Other Professional Activities}{12}{subsection.28}
+\contentsline {section}{\numberline {4}The Mechanics and Pragmatics of Lifespan Development: Conceptualization, Measurement and Plasticity}{13}{section.29}
+\contentsline {subsection}{\numberline {4.1}Life Insight, Self Insight, and Wisdom: Measurement, Age Trajectories}{13}{subsection.30}
+\contentsline {paragraph}{Research Team}{13}{section*.31}
+\contentsline {paragraph}{Collaborations}{14}{section*.32}
+\contentsline {paragraph}{Grants}{14}{section*.34}
+\contentsline {subsection}{\numberline {4.2}Life Composition: Measurement and Age Trajectories}{14}{subsection.35}
+\contentsline {paragraph}{Research Team}{14}{section*.36}
+\contentsline {paragraph}{Collaborations}{16}{section*.39}
+\contentsline {subsection}{\numberline {4.3}Context as a Facilitator of Adult Personality Development}{16}{subsection.41}
+\contentsline {paragraph}{Research Team}{16}{section*.42}
+\contentsline {paragraph}{Collaborations}{18}{section*.44}
+\contentsline {paragraph}{Grants}{18}{section*.46}
+\contentsline {subsection}{\numberline {4.4}Plasticity and Positive Development: Theoretical and Empirical Approaches}{19}{subsection.47}
+\contentsline {paragraph}{Research Team}{19}{section*.48}
+\contentsline {paragraph}{Collaborations}{19}{section*.49}
+\contentsline {subsection}{\numberline {4.5}Other Professional Activities}{20}{subsection.51}
+\contentsline {section}{\numberline {5}Emotional Competence and Wisdom: Lifespan Developmental Perspectives}{21}{section.52}
+\contentsline {subsection}{\numberline {5.1}Emotional Competence}{21}{subsection.53}
+\contentsline {paragraph}{Research Team}{21}{section*.54}
+\contentsline {paragraph}{Collaborations}{23}{section*.56}
+\contentsline {paragraph}{Grants}{23}{section*.58}
+\contentsline {subsection}{\numberline {5.2}Emotions in Art}{23}{subsection.59}
+\contentsline {paragraph}{Research Team}{23}{section*.60}
+\contentsline {paragraph}{Collaborations}{24}{section*.63}
+\contentsline {paragraph}{Grants}{24}{section*.64}
+\contentsline {subsection}{\numberline {5.3}Wisdom}{24}{subsection.65}
+\contentsline {paragraph}{Research Team}{24}{section*.66}
+\contentsline {paragraph}{Collaborations}{26}{section*.67}
+\contentsline {subsection}{\numberline {5.4}Awards, Fellowships}{26}{subsection.69}
+\contentsline {subsection}{\numberline {5.5}Other Professional Activities}{26}{subsection.70}
+\contentsline {section}{\numberline {6}The Communication of Information and Knowledge: An Important Facet of Lifelong Learning}{27}{section.71}
+\contentsline {subsection}{\numberline {6.1}BALANCE: The Effects of Media Communication}{27}{subsection.72}
+\contentsline {paragraph}{Research Team}{27}{section*.73}
+\contentsline {paragraph}{Collaborations}{28}{section*.74}
+\contentsline {paragraph}{Grants}{28}{section*.76}
+\contentsline {subsection}{\numberline {6.2}Technical Documentation: Age-related Formatting of Information}{29}{subsection.77}
+\contentsline {paragraph}{Research Team}{29}{section*.78}
+\contentsline {paragraph}{Collaborations}{29}{section*.80}
+\contentsline {subsection}{\numberline {6.3}Feldpost-Archiv}{29}{subsection.82}
+\contentsline {paragraph}{Research Team}{29}{section*.83}
+\contentsline {paragraph}{Collaborations}{30}{section*.85}
+\contentsline {subsection}{\numberline {6.4}\unhbox \voidb@x \hbox {Age, Emotions and Media-Preferences}}{30}{subsection.87}
+\contentsline {paragraph}{Research Team}{30}{section*.88}
+\contentsline {paragraph}{Collaborations}{31}{section*.90}
+\contentsline {subsection}{\numberline {6.5}Identification of Matches and Mismatches in Communication at the Work Place}{31}{subsection.92}
+\contentsline {paragraph}{Research Team}{31}{section*.93}
+\contentsline {paragraph}{Grants}{31}{section*.94}
+\contentsline {subsection}{\numberline {6.6}Other Professional Activities}{31}{subsection.95}
+\contentsline {section}{\numberline {7}A Lifespan Perspective on Organizational Behavior}{32}{section.96}
+\contentsline {subsection}{\numberline {7.1}Successful Workplace Learning across the Lifespan}{32}{subsection.97}
+\contentsline {paragraph}{Research Team}{32}{section*.98}
+\contentsline {paragraph}{Collaborations}{32}{section*.99}
+\contentsline {paragraph}{Grants}{33}{section*.101}
+\contentsline {subsection}{\numberline {7.2}Dynamic Modeling of Lifelong Learning Competency}{33}{subsection.102}
+\contentsline {paragraph}{Research Team}{33}{section*.103}
+\contentsline {subsection}{\numberline {7.3}Organizational Determinants of Vocational Adjustment Disorders}{33}{subsection.104}
+\contentsline {paragraph}{Research Team}{33}{section*.105}
+\contentsline {paragraph}{Collaborations}{33}{section*.106}
+\contentsline {subsection}{\numberline {7.4}Other Professional Activities}{33}{subsection.107}
+\contentsline {section}{\numberline {8}A Perspective from Business Administration on the Aging Workforce}{34}{section.108}
+\contentsline {subsection}{\numberline {8.1}Wisdom}{34}{subsection.110}
+\contentsline {paragraph}{Research Team}{34}{section*.111}
+\contentsline {paragraph}{Collaborations}{36}{section*.112}
+\contentsline {paragraph}{Grants}{36}{section*.114}
+\contentsline {subsection}{\numberline {8.2}Innovation}{37}{subsection.115}
+\contentsline {paragraph}{Research Team}{37}{section*.116}
+\contentsline {paragraph}{Collaborations}{38}{section*.117}
+\contentsline {paragraph}{Grants}{38}{section*.118}
+\contentsline {subsection}{\numberline {8.3}Strategy}{39}{subsection.119}
+\contentsline {paragraph}{Research Team}{39}{section*.120}
+\contentsline {paragraph}{Collaborations}{40}{section*.121}
+\contentsline {paragraph}{Grants}{40}{section*.123}
+\contentsline {subsection}{\numberline {8.4}Energy}{40}{subsection.124}
+\contentsline {paragraph}{Research Team}{40}{section*.125}
+\contentsline {paragraph}{Collaborations}{41}{section*.126}
+\contentsline {paragraph}{Grants}{41}{section*.127}
+\contentsline {subsection}{\numberline {8.5}Fellowships}{41}{subsection.128}
+\contentsline {subsection}{\numberline {8.6}Other Professional Activities}{42}{subsection.129}
+\contentsline {section}{\numberline {9}The Socio-Economics of Lifelong Learning}{43}{section.130}
+\contentsline {subsection}{\numberline {9.1}Lifelong Learning and the Labor Market}{43}{subsection.131}
+\contentsline {paragraph}{Research Team}{43}{section*.132}
+\contentsline {paragraph}{Collaborations}{44}{section*.134}
+\contentsline {paragraph}{Grants}{45}{section*.136}
+\contentsline {subsection}{\numberline {9.2}Implications of the Aging Workforce for Learning and Work}{45}{subsection.137}
+\contentsline {paragraph}{Research Team}{45}{section*.138}
+\contentsline {paragraph}{Collaborations}{46}{section*.140}
+\contentsline {paragraph}{Grants}{46}{section*.142}
+\contentsline {subsection}{\numberline {9.3}Other Professional Activities}{47}{subsection.143}
+\contentsline {section}{\numberline {10}PhD Degrees}{48}{section.144}
+\contentsline {paragraph}{2006}{48}{section*.145}
+\contentsline {paragraph}{2006}{48}{section*.146}
+\contentsline {paragraph}{2005}{48}{section*.147}
+\contentsline {section}{\numberline {11}Faculty}{49}{section.148}
+\contentsline {section}{\numberline {12}Graduate Students and Postdoctoral Fellows}{50}{section.149}
+\contentsline {section}{\numberline {13}Visiting Scholars at the Jacobs Center}{51}{section.150}

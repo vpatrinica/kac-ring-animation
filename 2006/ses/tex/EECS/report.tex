@@ -1,0 +1,88 @@
+\documentclass[11pt,a4paper,twoside,twocolumn]{article}
+%\documentclass[11pt,a4paper]{article}
+\usepackage{graphicx,parskip,times,amsfonts,amsmath,url}
+%\usepackage{esc-handbook-org}
+%\usepackage{eurosym}
+%\usepackage{natbib}
+\usepackage{a4,a4wide}
+%\usepackage[german]{babel}
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage[today]{../../../lib/macros/svninfo}
+\usepackage[show]{ed}
+%\includeonly{kohlhase,schoenwaelder}
+\def\shorttitle#1{}
+%---------------------PDF-definitions--------------------------------------
+\usepackage[pdftex,           %%% hyper-references for pdflatex
+  hypertexnames=false,%       %%% needed for correct links to figures
+  breaklinks=true,%           %%% break links if exceeding a single line
+  colorlinks=true,%           %%% to underline links instead of boxing
+  urlcolor=blue]{hyperref}    %%% blue instead of cyan URLS
+%---------------------end-of-PDF-definitions-------------------------------
+
+\newcommand{\mycaption}[1]{\caption{{\sl #1}}}
+\renewcommand*{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+    \hbox{}
+    \if!\blankpagetext!\else
+    \vfil \begin{center} \setlength{\fboxsep}{3mm}%
+    \framebox{\blankpagetext}
+    \end{center}\vfil\vfil \fi
+    \newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\newcommand*{\resetpages}{\cleardoublepage\pagenumbering{arabic}}
+\raggedbottom \pagenumbering{Roman}
+\renewcommand{\labelitemi}{-}
+
+\newenvironment{myitemize}{\begin{list}{-}{\labelwidth=0.2cm \leftmargin0.4cm
+\labelsep0.2cm \rightmargin0cm \parsep0.5ex plus0.2ex minus0.1ex
+\itemsep0ex
+ plus0.2ex}}{\end{list}}
+
+\setlength{\parskip}{0pt plus 1pt}
+
+\title{SES Research Area 1\\
+  Information and Communication Technologies}
+\author{}
+
+\begin{document}
+\maketitle
+\svnInfo $Id: report.tex 1229 2006-11-20 17:13:48Z birk $
+\svnKeyword $HeadURL: https://subversion.eecs.iu-bremen.de/svn/eecs/eecs/research-report/2006/report.tex $
+\begin{center}
+  \begin{tabular}{|l|l|}\hline
+    {\bf{Source Information}} & 
+    revision \svnInfoMaxRevision, last change {\svnInfoLongDate} 
+    \def\empty{}\ifx\svnInfoOwner\empty\else by {\svnInfoOwner}\fi\\\hline
+    \multicolumn{2}{|l|}{{\scriptsize\tt{\svnInfoHeadURL}}}\\\hline
+  \end{tabular}
+\end{center}
+
+\include{ITintro}
+\include{ComNet}
+\include{haas}
+\include{henkel}
+\include{schoenwaelder}
+\include{Jaeger_2006}
+\include{pfander}
+\include{wallace}
+
+\include{Robotics}
+\include{birk}
+\include{carpin}
+
+\include{Knowledge}
+\include{kohlhase}
+\include{antoulas}
+\include{baumann}
+\include{linsen2006}
+\include{stamerjohanns}
+
+\include{Microelectronics}
+\include{knipp}
+\include{bergholz}
+
+\bibliographystyle{alpha}
+\bibliography{profJaeger,profkohlhase,profbaumann,birk2006,henkel,profLinsen,report-pfander-2005,schoenwaelder,wallace,profantoulas,stamerjohanns,macros,cwc,report}
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

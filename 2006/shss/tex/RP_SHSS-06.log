@@ -1,0 +1,6058 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (MiKTeX 2.4) (preloaded format=latex 2006.2.26)  12 JAN 2007 13:07
+entering extended mode
+**C:/Andrei/Rfinal/shss/tex/RP_SHSS-06.tex
+(C:/Andrei/Rfinal/shss/tex/RP_SHSS-06.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, french, loaded.
+(C:\Programare\LATEX\texmf\tex\latex\base\article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(C:\Programare\LATEX\texmf\tex\latex\base\size11.clo
+File: size11.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\Programare\LATEX\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Programare\LATEX\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (C:\Programare\LATEX\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Programare\LATEX\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\Programare\LATEX\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2005/12/29 v1.2 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(C:\Programare\LATEX\texmf\tex\latex\graphics\pdftex.def
+File: pdftex.def 2005/06/20 v0.03m graphics/color for pdftex
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (parskip.sty)
+(C:\Programare\LATEX\texmf\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (C:\Programare\LATEX\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(C:\Programare\LATEX\texmf\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(C:\Programare\LATEX\texmf\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (C:\Programare\LATEX\texmf\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(C:\Programare\LATEX\texmf\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+) (C:\Programare\LATEX\texmf\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(esc-handbook-my.sty
+
+LaTeX Warning: You have requested package `esc-handbook-my',
+               but the package provides `esc-handbook'.
+
+Package: esc-handbook 2004/12/09 Marcel Oliver
+(C:\Programare\LATEX\texmf\tex\latex\graphics\color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+ (C:\Programare\LATEX\texmf\tex\latex\00miktex\color.cfg
+File: color.cfg 2005/12/29 v1.1 MiKTeX 'color' configuration
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+(html.sty
+Package: html 1996/02/01 v1.0 hypertext commands for latex2html (nd, hs)
+\c@lpart=\count100
+\c@lchapter=\count101
+\c@lsection=\count102
+\c@lsubsection=\count103
+\c@lsubsubsection=\count104
+\c@lparagraph=\count105
+\c@lsubparagraph=\count106
+\c@lsubsubparagraph=\count107
+\c@lequation=\count108
+)
+\hdrsep=\skip46
+\hdrrule=\skip47
+
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   ##
+l.168   \def\sectionmark##
+                          1{}\def\subsectionmark##1{}}
+I've inserted the digit you should have used after the #.
+Type `1' to delete what you did use.
+
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.168   \def\sectionmark##1
+                           {}\def\subsectionmark##1{}}
+I've inserted the digit you should have used after the #.
+Type `1' to delete what you did use.
+
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   ##
+l.168   \def\sectionmark##1{}\def\subsectionmark##
+                                                  1{}}
+I've inserted the digit you should have used after the #.
+Type `1' to delete what you did use.
+
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.168 ...ef\sectionmark##1{}\def\subsectionmark##1
+                                                  {}}
+I've inserted the digit you should have used after the #.
+Type `1' to delete what you did use.
+
+! Too many }'s.
+l.168 ...sectionmark##1{}\def\subsectionmark##1{}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+\fmbox=\box28
+\adjustedtextwidth=\skip48
+) (eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box29
+) (natbib.sty
+Package: natbib 2006/01/12 7.2 (PWD)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 541.
+\c@NAT@ctr=\count109
+) (a4.sty DIN A4 Anpassung nach H.Kopka durch Fritz Cremer 6.11.91
+\aiv@width=\skip51
+\tmp@width=\skip52
+\help@length=\skip53
+)
+(C:\Programare\LATEX\texmf\tex\latex\ltxmisc\a4wide.sty
+Package: a4wide 1994/08/30
+) (C:\Programare\LATEX\texmf\tex\generic\babel\babel.sty
+Package: babel 2005/05/21 v3.8g The Babel package
+
+(C:\Programare\LATEX\texmf\tex\generic\babel\english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+ (C:\Programare\LATEX\texmf\tex\generic\babel\babel.def
+File: babel.def 2005/05/21 v3.8g Babel common definitions
+\babel@savecnt=\count110
+\U@D=\dimen114
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(C:\Programare\LATEX\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+) (bibunits.sty
+Package: bibunits 2004/05/12 v2.4 Multiple bibliographies in one document.
+\@bibunitaux=\write3
+\@bibunitauxcnt=\count111
+)
+(C:\Programare\LATEX\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2004/02/22 v1.99f Standard LaTeX package
+ (C:\Programare\LATEX\texmf\tex\latex\base\t1enc.def
+File: t1enc.def 2004/02/22 v1.99f Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(C:\Programare\LATEX\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+ (C:\Programare\LATEX\texmf\tex\latex\base\latin1.def
+File: latin1.def 2004/02/05 v1.0d Input encoding file
+))
+(C:\Programare\LATEX\texmf\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen115
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+ (C:\Programare\LATEX\texmf\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Programare\LATEX\texmf\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2003/03/08 v1.0 MiKTeX 'hyperref' configuration
+)
+Package hyperref Info: Option `hypertexnames' set `false' on input line 1830.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1830.
+Package hyperref Info: Option `colorlinks' set `true' on input line 1830.
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+(url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file names
+)
+LaTeX Info: Redefining \url on input line 2143.
+LaTeX Info: Redefining \hyperref on input line 2154.
+\Fld@menulength=\count114
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+\Choice@toks=\toks21
+\Field@toks=\toks22
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring ON on input line 2636.
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+*hyperref using driver hpdftex*
+(C:\Programare\LATEX\texmf\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
+ (C:\Programare\LATEX\texmf\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(C:\Programare\LATEX\texmf\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (C:\Programare\LATEX\texmf\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count117
+\@outlinefile=\write4
+)
+(RP_SHSS-06.aux (dummy.aux) (dummy.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 42.
+ (C:\Programare\LATEX\texmf\tex\latex\psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(C:\Programare\LATEX\texmf\tex\context\base\supp-pdf.tex (C:\Programare\LATEX\texmf\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count118
+\scratchcounter=\count119
+\scratchtoks=\toks23
+\scratchdimen=\dimen118
+\scratchskip=\skip54
+\scratchmuskip=\muskip11
+\scratchbox=\box30
+\scratchread=\read1
+\scratchwrite=\write5
+\zeropoint=\dimen119
+\onepoint=\dimen120
+\onebasepoint=\dimen121
+\minusone=\count120
+\thousandpoint=\dimen122
+\onerealpoint=\dimen123
+\emptytoks=\toks24
+\nextbox=\box31
+\nextdepth=\dimen124
+\everyline=\toks25
+\!!counta=\count121
+\!!countb=\count122
+\recursecounter=\count123
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen125
+\MPnumerator=\count127
+\everyMPtoPDFconversion=\toks26
+)
+Package hyperref Info: Link coloring ON on input line 42.
+ (C:\Programare\LATEX\texmf\tex\latex\hyperref\nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+ (RP_SHSS-06.out) (RP_SHSS-06.out) (dummy.tex
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [1
+
+
+
+
+]
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \par 
+l.69 
+     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Faculty1.jpg, id=276, 1778.645pt x 1185.42876pt>
+File: Faculty1.jpg Graphic file (type jpg)
+ <use Faculty1.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 		\caption
+               {}%\label{fig:profxxx}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.76 \end{figure}
+                 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.76 \end{figure}
+                 \\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \end{figure}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.76 \end{figure}
+                 \\
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2
+
+{psfonts.map} <Faculty1.jpg>]
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Faculty2.jpg, id=284, 741.77126pt x 491.8375pt>
+File: Faculty2.jpg Graphic file (type jpg)
+ <use Faculty2.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 		\caption
+               {}%\label{fig:profxxx}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.90 \end{figure}
+                 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.90 \end{figure}
+                 \\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{figure}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.90 \end{figure}
+                 \\
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \par 
+l.93 
+     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
+(C:\Programare\LATEX\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
+ (C:\Programare\LATEX\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.118 {
+       \bf Not in the picture}: Andreas Bausch, Jan Delhey, Adele Diederich,...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 118.
+[1 <Faculty2.jpg>] (dummy.tex
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [2
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 130.
+ (RP_SHSS-06.toc
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[3
+
+
+
+])
+\tf@toc=\write6
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[4]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[5] (dummy.tex
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[1
+
+
+
+]
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--188
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[3] (dummy.tex
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [4
+
+
+] (./ArtLit/Amodeo.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[6] (./ArtLit/Crowther.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[7] (./ArtLit/Frohne.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[9]
+Underfull \hbox (badness 1460) in paragraph at lines 89--91
+\T1/ptm/m/it/10.95 (Working ti-tle) Zeit-genös-sis-che (Re)Präsentation von Me-di-enkunst: Ausstel-lungskonzepte und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[10] (./ArtLit/Peters.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[11] (./ArtLit/Rommel.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<./ArtLit/Rommel.jpg, id=439, 707.64375pt x 475.7775pt>
+File: ./ArtLit/Rommel.jpg Graphic file (type jpg)
+ <use ./ArtLit/Rommel.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[12 <./ArtLit/Rommel.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 54--211
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[13] (./ArtLit/Wuensche.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+<./ArtLit/Wuensche.jpg, id=449, 812.03375pt x 498.86375pt>
+File: ./ArtLit/Wuensche.jpg Graphic file (type jpg)
+ <use ./ArtLit/Wuensche.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[14 <./ArtLit/Wuensche.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[15] (./ArtLit/Publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[16]
+! Undefined control sequence.
+l.57 ...(ou pas) : Remarques sur les autres litt\’
+                                                  {e}ratures italiennes. In ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Identit\’
+                    {e} en m\’{e}tamorphose dans l'\’{e}criture contemporaine
+l.57 ...orphose dans l'\’{e}criture contemporaine}
+                                                   (pp. 129-136). Aix-en-Pro...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Identit\’{e} en m\’
+                              {e}tamorphose dans l'\’{e}criture contemporaine
+l.57 ...orphose dans l'\’{e}criture contemporaine}
+                                                   (pp. 129-136). Aix-en-Pro...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...t\’{e} en m\’{e}tamorphose dans l'\’
+                                                  {e}criture contemporaine
+l.57 ...orphose dans l'\’{e}criture contemporaine}
+                                                   (pp. 129-136). Aix-en-Pro...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.57 ...en-Provence: Publications de l'Universit\’
+                                                  {e} de Provence.\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+! Undefined control sequence.
+l.59 Amodeo, I. (2006). "comme dans l'atmosph\‘
+                                               {e}re d'un autre monde". Die ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+! Undefined control sequence.
+l.61 ...e migration et leurs configurations esth\’
+                                                  {e}tiques. De la litt\’{e}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.61 ...nfigurations esth\’{e}tiques. De la litt\’
+                                                  {e}rature des auteurs fran...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> Histoires invent\’
+                             {e}es
+l.61 ...dt (Ed.), \textit{Histoires invent\’{e}es}
+                                                  , (pp. 83-93). Frankfurt a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+! Undefined control sequence.
+l.65 ...du corps. Images corporelles du XVIIe si\‘
+                                                  {e}cle au cin\’{e}ma. In E...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...s corporelles du XVIIe si\‘{e}cle au cin\’
+                                                  {e}ma. In E. Erdmann, \& K...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...l. Mouvement et comique dans l'espace th\’
+                                                  {e}âtral du XVIIe si\‘{e}c...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 ...e dans l'espace th\’{e}âtral du XVIIe si\‘
+                                                  {e}cle (pp. 149-160). T\"{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+! Undefined control sequence.
+l.78 Frohne, U. (2006). D\’
+                           {e}tournement als "verwirklichte Poesie" - Der K\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 96--97
+[]\T1/ptm/m/n/10.95 Knorpp, E. (2006). Rezen-sion des Ausstel-lungskat-a-logs Ger-hard Kol-berg [Hg.]: \T1/ptm/m/it/10.9
+5 Sal-vador
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 96--97
+\T1/ptm/m/it/10.95 Dalí. La Gare de Per-pig-nan Pop, Op, Yes-yes, Pom-pier, \T1/ptm/m/n/10.95 Os-t-fildern: Hatje Cantz,
+ 2006
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 114--213
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[19] (./ArtLit/LectTalk.tex
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 13--25
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 13--25
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 31--37
+[] 
+ []
+
+! Undefined control sequence.
+l.50  Place: 	 & \’
+                   {E}cole des Hautes \’{E}tudes en Sciences Sociales, Paris...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50  Place: 	 & \’{E}cole des Hautes \’
+                                        {E}tudes en Sciences Sociales, Paris...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 42--72
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 42--72
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 42--72
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 42--72
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 42--72
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[20]
+Underfull \hbox (badness 4981) in paragraph at lines 85--86
+[]\T1/ptm/m/n/10.95 Debate and Round Ta-ble within the Lit-er-a-ture Pro-gram "Grenzziehun-gen -
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 77--125
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[21]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 133--175
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 180--186
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[22]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 195--219
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 195--219
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 195--219
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 195--219
+[] 
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 232--232
+[]\T1/ptm/m/n/10.95 Kulturwissenschaftliche Lit-er-atur-wis-senschaft: Auf den Spuren von Böckh und
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 228--246
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 228--246
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 228--246
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[23]
+! Undefined control sequence.
+l.270  Place: 	 & Universit\’
+                             {e} de Metz, France\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 256--274
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 256--274
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 256--274
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 281--293
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 281--293
+[] 
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 322--322
+[]\T1/ptm/m/n/10.95 Organic Sym-bio-sis ver-sus Nat-u-ral Se-lec-tion: How Lamarck In-formed Mikhail
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 300--324
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 300--324
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 300--324
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 300--324
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[24]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 330--336
+[] 
+ []
+
+) (dummy.tex
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[25]
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [26] (./History/Dooley.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[27] (./History/Fischer-Tine.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[28] (./History/Frey.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[30] (./History/Paulmann.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--41
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 42--225
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[31] (./History/Spakowski.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./History/Spakowski.jpg, id=542, 413.545pt x 669.50125pt>
+File: ./History/Spakowski.jpg Graphic file (type jpg)
+ <use ./History/Spakowski.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 		\caption
+               {\itshape "A Chinese woman warrior as a door god"}%\label{fig...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.24 \end{figure}
+                 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.24 \end{figure}
+                 \\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{figure}
+                 \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.24 \end{figure}
+                 \\
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \vspace
+            {0.3cm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[32 <./History/Spakowski.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 34--35
+[]\T1/ptm/m/n/10.95 Organizer and chair of the panel "Through Many Lenses - Rep-re-sen-ta-tions and Self-
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[33] (./History/Spiekermann.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./History/Spiekermann1.jpg, id=551, 1275.76625pt x 1208.515pt>
+File: ./History/Spiekermann1.jpg Graphic file (type jpg)
+ <use ./History/Spiekermann1.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21     \caption
+                 {\itshape Cultivation and Civilization: Advertisement of Li...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.23 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.23 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.23 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./History/Spiekermann2.jpg, id=552, 1060.96375pt x 976.64874pt>
+File: ./History/Spiekermann2.jpg Graphic file (type jpg)
+ <use ./History/Spiekermann2.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29     \caption
+                 {\itshape On the way to a unknown world of affluence, Dortm...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[34 <./History/Spiekermann1.jpg>]
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.31 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.31 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.31 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[35 <./History/Spiekermann2.jpg>] (./History/Publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 90--91
+[]\T1/ptm/m/n/10.95 Spiekermann, U. (2006). Warum scheit-ert Ernährungskom-mu-nika-tion? In Aid e.V. (Ed.),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[38] (./History/LectTalk.tex
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 11--17
+[] 
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 27--27
+[]\T1/ptm/m/n/10.95 Von der Ab-satzpraxis zur Ab-satzwis-senschaft. Mark-thandeln in Deutsch-land
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 27--27
+\T1/ptm/m/n/10.95 in den 1920er und 1930er Jahren im Span-nungs-feld von Er-fahrungswis-sen und
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 23--29
+[] 
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 39--40
+[]\T1/ptm/m/n/10.95 Conference "West-ern In-te-gra-tion, Ger-man Uni-fi-ca-tion, and the Cold War: The
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 40--40
+[]\T1/ptm/m/n/10.95 Representation with-out Em-u-la-tion: Ger-man Cul-tural Diplo-macy in Search of
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 36--48
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 36--48
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 55--61
+[] 
+ []
+
+! Undefined control sequence.
+l.69  Place: 	 & Universit\‘
+                            {a} degli Studi di Milano, Italy \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.74  Speaker:	&   Harald Fischer-Tin\’
+                                       {e} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 67--97
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 67--97
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 67--97
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 67--97
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 67--97
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[39]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 105--135
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 105--135
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 105--135
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 105--135
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 105--135
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[40]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 143--149
+[] 
+ []
+
+! Undefined control sequence.
+l.158  Speaker:	&   Harald Fischer-Tin\’
+                                        {e} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 157--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 157--175
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 157--175
+[] 
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 184--184
+[]\T1/ptm/m/n/10.95 Abkehr vom Selb-stver-ständlichen. Es-sen/Ernährung in Deutsch-land seit der
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 180--192
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 180--192
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[41]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 199--205
+[] 
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[42] (./Psy/Diederich.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[44] (./Psy/Foerster.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+! Too many }'s.
+l.53 Defense: May 2006}
+                       \\[-0.15cm]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+! Too many }'s.
+l.57 Defense: May 2006}
+                       \\[-0.15cm]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+! Too many }'s.
+l.64 Defense: May 2006}
+                       \\[-0.15cm]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+
+ []
+
+! Too many }'s.
+l.68 Defense: May 2006}
+                       \\[-0.15cm]
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[46] (./Psy/Kappas.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+<./Psy/Kappas1.jpg, id=609, 825.0825pt x 609.27625pt>
+File: ./Psy/Kappas1.jpg Graphic file (type jpg)
+ <use ./Psy/Kappas1.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23     \caption
+                 {\itshape Facial activity is recorded using electromyograph...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.25 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.25 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.25 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./Psy/Kappas2.jpg, id=610, 982.67125pt x 463.7325pt>
+File: ./Psy/Kappas2.jpg Graphic file (type jpg)
+ <use ./Psy/Kappas2.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31     \caption
+                 {\itshape These faces were created using POSER 6 software (...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[47 <./Psy/Kappas1.jpg>]
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.33 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.33 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.33 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[48 <./Psy/Kappas2.jpg>] (./Psy/Kuehnen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[49])
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[50] (./Psy/Olk.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+! LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \begin{}
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+
+ []
+
+<./Psy/Olk.jpg, id=628, 562.1pt x 299.1175pt>
+File: ./Psy/Olk.jpg Graphic file (type jpg)
+ <use ./Psy/Olk.jpg>
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23     \caption
+                 {\itshape The picture shows a typical eye movement scanpath...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.25 \end{figure}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.25 \end{figure}
+                 
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.25 \end{figure}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[51 <./Psy/Olk.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[52] (./Psy/Publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[56] (./Psy/LectTalk.tex
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 10--58
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[57]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 64--76
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 64--76
+[] 
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 122--122
+[]\T1/ptm/m/n/10.95 Annäherung und Ver-mei-dung: Wie mo-ti-va-tionale Fak-toren Denkstile und die
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 82--130
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[58]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 136--148
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 136--148
+[] 
+ []
+
+! Undefined control sequence.
+l.174  Place: 	 &  Universit\’
+                              {e} Louvain-La-Neuve, Belgium \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.180  Place: 	 & Universit\’
+                             {e} Louvain-La-Neuve, Belgium\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 154--184
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 154--184
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 154--184
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 154--184
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 154--184
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[59]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 191--209
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 191--209
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 191--209
+[] 
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 248--249
+[]\T1/ptm/m/n/10.95 Joint Meet-ing of the In-ter-na-tional Neu-ropsy-chol-gi-cal So-ci-ety, Swiss So-ci-ety of
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 254--255
+[]\T1/ptm/m/n/10.95 Colloquium of the De-part-ment of Gen-eral Psy-chol-ogy, Ludwig-Maximilians-
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 215--257
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[60]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 263--287
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 263--287
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 263--287
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 263--287
+[] 
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 311--311
+[]\T1/ptm/m/n/10.95 Selbstregulation und Denkstile: Ein-fluss mo-ti-va-tionaler Ori-en-tierun-gen auf die
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 295--349
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[61]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[62]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 356--380
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 356--380
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 356--380
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 356--380
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 385--415
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 385--415
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 385--415
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 385--415
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 385--415
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[63]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 422--434
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 422--434
+[] 
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[64] (./SocSci/Bausch.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Warning: pdflatex (file ./SocSci/Bausch-fig001.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> a
+llowed
+<./SocSci/Bausch-fig001.pdf, id=689, 301.125pt x 197.23688pt>
+File: ./SocSci/Bausch-fig001.pdf Graphic file (type pdf)
+ <use ./SocSci/Bausch-fig001.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[65 <./SocSci/Bausch-fig001.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[66] (./SocSci/Bogaards.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[67] (./SocSci/Brockmann.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+<./SocSci/Brockmann-fig001.pdf, id=705, 972.63374pt x 605.26125pt>
+File: ./SocSci/Brockmann-fig001.pdf Graphic file (type pdf)
+ <use ./SocSci/Brockmann-fig001.pdf>
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[68 <./SocSci/Brockmann-fig001.pdf>] <./SocSci/Brockmann-fig002.pdf, id=721, 972.63374pt x 605.26125pt>
+File: ./SocSci/Brockmann-fig002.pdf Graphic file (type pdf)
+
+<use ./SocSci/Brockmann-fig002.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[69 <./SocSci/Brockmann-fig002.pdf>] (./SocSci/Brunekreeft.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[70])
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[71] (./SocSci/Delhey.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[72] (./SocSci/Genschel.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[74] (./SocSci/Jachtenfuchs.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[76] (./SocSci/Joppke.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Warning: pdflatex (file ./SocSci/Joppke-fig001.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> a
+llowed
+<./SocSci/Joppke-fig001.pdf, id=766, 127.97812pt x 194.22563pt>
+File: ./SocSci/Joppke-fig001.pdf Graphic file (type pdf)
+ <use ./SocSci/Joppke-fig001.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[77 <./SocSci/Joppke-fig001.pdf>] (./SocSci/Ludes.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Warning: pdflatex (file ./SocSci/Ludes-fig001.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> al
+lowed
+<./SocSci/Ludes-fig001.pdf, id=775, 703.87968pt x 401.24907pt>
+File: ./SocSci/Ludes-fig001.pdf Graphic file (type pdf)
+ <use ./SocSci/Ludes-fig001.pdf>
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[78 <./SocSci/Ludes-fig001.pdf>]
+Warning: pdflatex (file ./SocSci/Ludes-fig002.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> al
+lowed
+<./SocSci/Ludes-fig002.pdf, id=783, 614.295pt x 478.78876pt>
+File: ./SocSci/Ludes-fig002.pdf Graphic file (type pdf)
+ <use ./SocSci/Ludes-fig002.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[79 <./SocSci/Ludes-fig002.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[80] (./SocSci/Mueller.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[82] (./SocSci/Pfaffenberger.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 26--28
+[]\T1/ptm/m/n/10.95 "Ermittlung von Ef-fek-ten des KfW-CO2-Gebäudesanierungsprogramms" funded by KfW
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 38--40
+[]\T1/ptm/m/n/10.95 Scientific eval-u-a-tion of a model project on "Emis-sion-shan-del für Klein-ver-braucher und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 56--57
+[]\T1/ptm/m/n/10.95 Member of com-mit-tee "En-vi-ron-men-tal and Re-source Eco-nomics", Gesellschaft für
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 65--67
+[]\T1/ptm/m/n/10.95 Qualitätssicherung En-ergieausweis: Gutachten zu Zie-len, Nutzen, In-stru-men-tar-ium und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[85] (./SocSci/Ress.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[86] (./SocSci/Steffek.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[87] (./SocSci/Welzel.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Warning: pdflatex (file ./SocSci/Welzel-fig002.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> a
+llowed
+<./SocSci/Welzel-fig002.pdf, id=825, 522.45187pt x 300.3722pt>
+File: ./SocSci/Welzel-fig002.pdf Graphic file (type pdf)
+ <use ./SocSci/Welzel-fig002.pdf>
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[88 <./SocSci/Welzel-fig002.pdf>]
+Warning: pdflatex (file ./SocSci/Welzel-fig001.pdf): pdf inclusion: found pdf version <1.6>, but at most version <1.4> a
+llowed
+<./SocSci/Welzel-fig001.pdf, id=836, 436.63126pt x 405.76593pt>
+File: ./SocSci/Welzel-fig001.pdf Graphic file (type pdf)
+ <use ./SocSci/Welzel-fig001.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 38--39
+[]\T1/ptm/m/n/10.95 German part of the World Val-ues Sur-veys: prin-ci-pal in-ves-ti-ga-tor funded by Deutsche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 48--49
+[]\T1/ptm/m/n/10.95 Member of sci-en-tific ad-vi-sory board of the Telekom Foun-da-tion's "In-no-va-tion-sindika-tor
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[89 <./SocSci/Welzel-fig001.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[90] (./SocSci/Werner.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[92] (./SocSci/Wessler.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<./SocSci/Wessler.jpg, id=856, 749.80125pt x 449.68pt>
+File: ./SocSci/Wessler.jpg Graphic file (type jpg)
+ <use ./SocSci/Wessler.jpg>
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[93 <./SocSci/Wessler.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[94] (./SocSci/Publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 103--104
+\T1/ptm/m/n/10.95 An-sätze aus Emo-tion-spsy-cholo-gie, Bild-wis-senschaft und vi-sueller Kom-mu-nika-tions-forschung.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 127--128
+[]\T1/ptm/m/n/10.95 Pfaffenberger, W. (2006). Zu den Fun-da-men-tal-daten der En-ergiepreisen-twick-lung. \T1/ptm/m/it/1
+0.95 En-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[100] (./SocSci/LectTask.tex
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 11--35
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 11--35
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 11--35
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 11--35
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 41--53
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 41--53
+[] 
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 68--69
+[]\T1/ptm/m/n/10.95 Conference of the Global Net-work on In-equal-ity Re-search as Part of the 75$[]$
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 59--119
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[101]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[102]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 125--143
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 125--143
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 125--143
+[] 
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 176--177
+[]\T1/ptm/m/n/10.95 Conference "Ate-lier his-torique franco-allemand sur les re-la-tions economiques et
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--185
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[103]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 190--214
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 190--214
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 190--214
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 190--214
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 220--298
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[104]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[105]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 304--310
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 317--341
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 317--341
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 317--341
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 317--341
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 347--389
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[106]
+Underfull \hbox (badness 1394) in paragraph at lines 421--422
+[]\T1/ptm/m/n/10.95 Mass Me-dia and Com-mu-ni-ca-tions Re-search Net-work Meet-ing of the Eu-ro-pean
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 394--448
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[107]
+Underfull \hbox (badness 1629) in paragraph at lines 462--463
+[]\T1/ptm/m/n/10.95 Conference on "Har-mon-isierung - Ko-op-er-a-tion - Wet-tbe-werb. Steuer-poli-tis-che
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 474--475
+[]\T1/ptm/m/n/10.95 Mediensymposium Luzern 2006 "Seis-mo-graphis-che Funk-tion von öf-fentlicher
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 453--477
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 453--477
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 453--477
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 453--477
+[] 
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[108] (./StatMeth./Boehnke.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--42
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[111] (./StatMeth./Lietz.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[112] (./StatMeth./Schreier.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[113]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[114] (./StatMeth./Talias.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[115] (./StatMeth./Wilhelm.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[116] (./StatMeth./Publications.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+\T1/ptm/m/n/10.95 der http://www3.interscience.wiley.com/cgi-bin/abstract/112636731/ABSTRACT? CRETRY=
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 100--272
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[119] (./StatMeth./LectTalk.tex
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 12--18
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 23--35
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 23--35
+[] 
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 48--48
+[]\T1/ptm/m/n/10.95 Rückwirkungen der EU-Osterweiterung auf die gesellschaftliche In-te-gra-tion in
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 44--56
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 44--56
+[] 
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 64--70
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[120]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 78--102
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 78--102
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 78--102
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 78--102
+[] 
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 119--120
+[]\T1/ptm/m/n/10.95 18th In-ter-na-tional Congress of the In-ter-na-tional As-so-ci-a-tion for Cross-Cultural
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 120--120
+[]\T1/ptm/m/n/10.95 Students' Per-cep-tion of Val-ues and Ap-proaches to Learn-ing at an In-ter-na-tional
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 110--140
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 110--140
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 110--140
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 110--140
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 110--140
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[121]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--167
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--167
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 149--167
+[] 
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 179--179
+[]\T1/ptm/m/n/10.95 Intergenerational Val-ues Trans-mis-sion and Trans-gen-er-a-tional Value Change: An
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 191--191
+[]\T1/ptm/m/n/10.95 Frauen mö-gen Liebesgeschichten und Män-ner Aben-teuer? Eine em-pirische
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 175--211
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[122]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 218--224
+[] 
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 254--254
+[]\T1/ptm/m/n/10.95 Are Val-ues more Im-por-tant than Learn-ing Styles? Fac-tors In-flu-enc-ing Stu-dent
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 232--262
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 232--262
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 232--262
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 232--262
+[]
+ []
+
+
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 232--262
+[] 
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[123]
+Overfull \hbox (0.81711pt too wide) in paragraph at lines 269--275
+[] 
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[124] (./TransdResearch/CIS.tex
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...nternational tax policy and the national ‚
+                                                  tax state" funded by the D...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[125] (./TransdResearch/CRC.tex
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\\' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\newline' on input line 3.
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[126] (./TransdResearch/CMC.tex
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[127])
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[128] (./TransdResearch/PM.tex
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\\' on input line 3.
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[129] (./TransdResearch/VRF.tex <./TransdResearch/VRF-fig1.jpg, id=1019, 737.75626pt x 135.50626pt>
+File: ./TransdResearch/VRF-fig1.jpg Graphic file (type jpg)
+
+<use ./TransdResearch/VRF-fig1.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 10--18
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[130 <./TransdResearch/VRF-fig1.jpg>] <./TransdResearch/VRF-fig2.jpg, id=1025, 432.11438pt x 66.2475pt>
+File: ./TransdResearch/VRF-fig2.jpg Graphic file (type jpg)
+
+<use ./TransdResearch/VRF-fig2.jpg>)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[131 <./TransdResearch/VRF-fig2.jpg>]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[132] (./PhD.tex
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[133]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[134]
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[135])
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[136] (./Advisory-Board.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+)
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[137] (./Administration.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 19--300
+
+ []
+
+
+Overfull \hbox (4.6735pt too wide) has occurred while \output is active
+[][][][] 
+ []
+
+[138] (impressum.tex
+! Undefined control sequence.
+l.2 \fchapter
+             {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Too many }'s.
+l.6 }
+     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+) [139] (RP_SHSS-06.aux (dummy.aux) (dummy.aux)) ) 
+Here is how much of TeX's memory you used:
+ 5582 strings out of 95515
+ 66876 string characters out of 1189013
+ 122351 words of memory out of 1115382
+ 7729 multiletter control sequences out of 60000
+ 39614 words of font info for 64 fonts, out of 1000000 for 2000
+ 14 hyphenation exceptions out of 8191
+ 33i,15n,40p,2410b,398s stack positions out of 5000i,500n,10000p,200000b,32768s
+PDF statistics:
+ 1063 PDF objects out of 300000
+ 243 named destinations out of 300000
+ 650 words of extra memory for PDF output out of 65536
+<C:\Programare\LATEX\texmf\fonts\type1\bluesky\cm\cmmi8.pfb><C:\Progra
+mare\LATEX\texmf\fonts\type1\bluesky\cm\cmr8.pfb><C:\Programare\LATEX\texmf\fonts\type1\bluesky\cm\cmr10.pfb><C:\Program
+are\LATEX\texmf\fonts\type1\bluesky\cm\cmsy10.pfb>{8r.enc}<C:\Programare\LATEX\texmf\fonts\type1\urw\urwstd\utmri8a.pfb>
+<C:\Programare\LATEX\texmf\fonts\type1\bluesky\cm\cmbx8.pfb><C:\Programare\LATEX\texmf\fonts\type1\urw\urwstd\utmb8a.pfb
+><C:\Programare\LATEX\texmf\fonts\type1\urw\urwstd\utmr8a.pfb>
+Output written on RP_SHSS-06.pdf (146 pages, 2444636 bytes).

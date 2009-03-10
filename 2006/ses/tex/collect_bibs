@@ -1,0 +1,4 @@
+rm combined.bib
+find .|grep '\.bib$'|xargs cat> /tmp/combined.bib
+cp /tmp/combined.bib .
+

@@ -1,0 +1,96 @@
+\documentclass[11pt,a4paper,twoside,twocolumn]{article}
+
+\usepackage{graphicx,parskip,times,amsfonts,amsmath}
+%\usepackage{url}
+%\usepackage{html}
+\usepackage{esc-handbook-org}
+\usepackage{eurosym}
+%\usepackage{chapterbib}
+\usepackage{apalike}
+\usepackage{a4,a4wide}
+\usepackage[english]{babel}
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage{bibunits}
+
+%---------------------PDF-definitions--------------------------------------
+\usepackage[pdftex,           %%% hyper-references for pdflatex
+  hypertexnames=false,%       %%% needed for correct links to figures
+  breaklinks=true,%           %%% break links if exceeding a single line
+  colorlinks=true,
+  linkcolor=black,%           %%% to underline links instead of boxing
+  urlcolor=blue]{hyperref}    %%% blue instead of cyan URLS
+%---------------------end-of-PDF-definitions-------------------------------
+
+
+\newcommand{\mycaption}[1]{\caption{{\footnotesize #1}}}
+\renewcommand*{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+    \hbox{}
+    \if!\blankpagetext!\else
+    \vfil \begin{center} \setlength{\fboxsep}{3mm}%
+    \framebox{\blankpagetext}
+    \end{center}\vfil\vfil \fi
+    \newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\newcommand*{\resetpages}{\cleardoublepage\pagenumbering{arabic}}
+\raggedbottom \pagenumbering{Roman}
+
+\setlength{\parskip}{1ex plus 1ex}
+
+\begin{document}
+% Robert's hack:
+\renewcommand{\refname}{Publications}
+\renewcommand{\bibname}{Publications}
+
+\def\Hchapter{\paragraph}
+%
+\title     {Jacobs Center \\
+            Research Report 2006} \shorttitle{JCLL RP 2006}
+\author    {Anke Allner}
+\date      {December 2006}
+\masterfile{JCLL--RR--2006} \issue     {0} \revision {1} \version
+{2}{0}{27.12.06}{Test}
+
+\hyphenation{know-ledge stra-te-gy}
+
+\onecolumn
+\shorttitle{Table of Contents} \tableofcontents \resetpages  
+\twocolumn
+\input{intro}
+\cleardoublepage
+\input{Neuro}
+
+\cleardoublepage
+\input{HealthPerso}
+
+\cleardoublepage
+\input{MechPrag}
+
+\cleardoublepage
+\input{Compet}
+
+\cleardoublepage
+\input{Commun}
+
+\cleardoublepage
+\input{Lifespan}
+
+\cleardoublepage
+\input{BA}
+
+\cleardoublepage
+\input{SocioEco}
+
+\onecolumn
+\newpage
+\input{PhD}
+
+\newpage
+\input{Faculty}
+
+\newpage
+\input{Grads}
+
+\newpage
+
+\input{Visitors}
+
+\end{document}

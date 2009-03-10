@@ -1,0 +1,941 @@
+@InCollection{Carpin:LNCS4123,  author = 	 {S.~Carpin},  title = 	 {Algorithmic Motion Planning: the Randomized Approach},  booktitle = 	 {Information transfer and combinatorics},  OPTcrossref =  {},  OPTkey = 	 {},  pages = 	 {725-753},  publisher = {Springer},  year = 	 {2006},  editor = 	 {R.~Ahlswede et al.},  volume = 	 {4123},  OPTnumber = 	 {},  series = 	 {LNCS},  OPTtype = 	 {},  OPTchapter = 	 {},  OPTaddress = 	 {},  OPTedition = 	 {},  OPTmonth = 	 {},  OPTnote = 	 {},  OPTannote = 	 {}}
+
+
+@InProceedings{Carpin:ICRA2006GM,  author = 	 {S.~Carpin and C.~Mirolo and E.~Pagello},  title = 	 {A performance comparison of three algorithms for proximity queries relative to convex polyhedra},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle = {Proceeding of the IEEE International Conference on Robotics and automation},  pages = 	 {3023-3028},  year = 	 {2006},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  OPTseries = 	 {},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}@InProceedings{Carpin:ICRA2006BCMOMMT,  author = 	 {A. Kolling and S. Carpin},  title = 	 {Multirobot Cooperation for Surveillance of Multiple Moving Targets - A new behavioral approach},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle =	 {Proceeding of the IEEE International Conference on Robotics and automation},  pages =	 {1311-1316},  year =	 {2006},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  OPTseries = 	 {},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}@InProceedings{Carpin:PerMIS2006a,  author = 	 {S. Carpin and T. Stoyanov and Y. Nevatia and M. Lewis and J. Wang},  title = 	 {Quantitative Assessments of USARSim Accuracy},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle =	 {Proceedings of the Performance Metrics for Intelligent Systems Workshop },  OPTpages = 	 {},  year =	 {2006},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  OPTseries = 	 {},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}@InProceedings{Carpin:PerMIS2006b,  author = 	 {S. Balakirsky and C. Scrapper and S. Carpin and M. Lewis},  title = 	 {USARSim: providing a framework for multi-robot performance evaluation},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle =	 {Proceedings of the Performance Metrics for Intelligent Systems Workshop },  OPTpages = 	 {},  year =	 {2006},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  OPTseries = 	 {},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}
+
+@InProceedings{Carpin:IAS2006,  author = 	 {S. Carpin and E. Pagello},  title = 	 {An experimental study of distributed robot coordination},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle =	 {Intelligent autonomous systems 9},  pages = 	 {199-206},  year = 	 {2006},  editor = 	 {T.~Arai and R.~Pfeifer and T.~Balch and H.~Yokoi},  OPTvolume = 	 {},  OPTnumber = 	 {},  OPTseries = 	 {},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  publisher = {IOS Press},  OPTnote =	 {},  OPTannote = 	 {}}
+
+@InProceedings{Carpin:RS1,  author = 	 {S. Carpin and J. Wang and M. Lewis and A. Birk and A. Jacoff},  title = 	 {High fidelity tools for rescue robotics: results and perspectives},  OPTcrossref =  {},  OPTkey = 	 {},  booktitle =	 {Robocup 2005: Robot Soccer World Cup IX},  pages = 	 {301-311},  year = 	 {2006},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  series =	 {LNCS},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}
+
+
+@InProceedings{Carpin:RS3,  author = 	 {S. Carpin and M. Lewis and J.  Wang and S. Balakirski and C. Scrapper},  title = 	 {Bridging the gap between simulation and reality in urban search and rescue},  booktitle = 	 {Robocup 2006: Robot Soccer World Cup X},  OPTcrossref =  {},  OPTkey = 	 {},  OPTpages = 	 {},  OPTyear = 	 {},  OPTeditor = 	 {},  OPTvolume = 	 {},  OPTnumber = 	 {},  series =	 {LNCS},  OPTaddress = 	 {},  OPTmonth = 	 {},  OPTorganization = {},  OPTpublisher = {},  OPTnote = 	 {},  OPTannote = 	 {}}
+
+
+@Article{Carpin:AR2006,
+  author = 	 {A. Birk and S. Carpin},
+  title = 	 {Rescue robotics: a crucial milestone on the road to autonomous systems},
+  journal = 	 {Advanced robotics},
+  year =	 {2006},
+  OPTkey = 	 {},
+  volume =	 {5},
+  number =	 {20},
+  pages =	 {595-605},
+  OPTmonth = 	 {},
+  OPTnote =	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{Carpin:ACTA2006,
+  author = 	 {S. Carpin},
+  title = 	 {Randomized motion planning -- a tutorial},
+  journal = 	 {International Journal of Robotics and Automation},
+  year =	 {2006},
+  OPTkey = 	 {},
+  volume =	 {21},
+  number =	 {3},
+  pages = 	 {184-196},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+
+
+@Article{Carpin:IEEEPRO2006,
+  author = 	 {A.~Birk and S.~Carpin},
+  title = 	 {Merging occupancy grids from multiple robots},
+  journal = 	 {Proceedings of the IEEE},
+  year = 	 {2006},
+  OPTkey = 	 {},
+  volume =	 {94},
+  number =	 {7},
+  pages =	 {1384-1397},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+
+@Unpublished{Kohlhase:smtl05,
+  author = 	 {Michael Kohlhase},
+  title = 	 {Semantic Markup for {\TeX/\LaTeX}},
+  note = 	 {Manuscript, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex}}},
+  year =	 2005
+}
+
+@Unpublished{Kohlhase:ssmtl06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {sTeX: Semantic Markup  in {\TeX/\LaTeX}},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/stex.pdf}}},
+  year =	 2006
+}
+
+@Unpublished{Kohlhase:smmssl06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {Semantic Macros and Module Scoping in sTeX},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/modules.pdf}}},
+  year =	 2006
+}
+@Unpublished{Kohlhase:ipsmsl06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {An Infrastructure for Presenting Semantic Macros in sTeX},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/presentation.pdf}}},
+  year =	 2006
+}
+@Unpublished{Kohlhase:smp06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {Structural Markup for Proofs},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/sproof.pdf}}},
+  year =	 2006
+}
+@Unpublished{Kohlhase:smms06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {Structural Markup for Mathematical Statements},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/statements.pdf}}},
+  year =	 2006
+}
+@Unpublished{Kohlhase:sssl06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {Structure Sharing in sTeX},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/stex.pdf}}},
+  year =	 2006
+}
+
+@Unpublished{Kohlhase:tbscml06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {A {\TeX/\LaTeX}-based Syntax for Content MathML},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/cmathml.pdf}}},
+  year =	 2006
+}
+
+@Unpublished{Kohlhase:clbscm06,
+  author = 	 {Michael Kohlhase},
+  title = 	 {CNS{\LaTeX}: A {\LaTeX}-based Syntax for Connexions Modules},
+  note = 	 {Self-documenting {\LaTeX} pacakge, available at {\url{http://kwarc.eecs.iu-bremen.de/software/stex/cmathml.pdf}}},
+  year =	 2006
+}
+
+@InProceedings{KohKoh:aesmk05,
+  author = 	 {Andrea Kohlhase and Michael Kohlhase},
+  title = {An Exploration in the Space of Mathematical Knowledge},
+  crossref =  {MKM05},
+}
+@book{Knipp05-8,
+	author={D. Knipp},
+	title={Wissenschaft im Zeichen der Zeit},
+	year={2005},
+	chapter={Gesiebtes Licht oder Wie lernt ein optischer Sensor Farbensehen}
+}
+@article{Knipp05-1,
+	author={H. Stiebig and D. Knipp and S.R. Bhalotra and H.L. Kung and D.A.B. Miller},
+	title={Interferometric Sensors for Spectral Imaging},
+	journal={Sensors and Actuators A: Physical},
+	year={2005},
+	keys={thin film detector, amorphous silicon, TCO, Fourier Spectrometer, Spectrometer, MEMS, micro-machining},
+	number={1},
+	pages={110-114},
+	volume={120}
+}
+@article{Knipp05-3,
+	author={D. Knipp and R.A. Street and A.R. V{\"{o}}lkel and P. Kumar},
+	title={Influence of the gate dielectric on the performance of pentacene thin film transistors},
+	journal={Synthetic Metals},
+	year={2005},
+	keys={pentacene, thin film transistors, organic dielectrics, electronic transport},
+	number={3},
+	pages={485},
+	volume={155}
+}
+@article{Knipp05-4,
+	author={H. Stiebig and R.A. Street and D. Knipp and M. Krause and J. Ho},
+	title={Vertically integrated thin film color sensor arrays for advanced sensing applications},
+	journal={Appl. Phys. Lett.},
+	year={2006},
+	keys={optical sensor, color sensor, amorphous silicon},
+	pages={013509},
+	volume={88}
+}
+@article{Knipp05-5,
+	author={D. Knipp and T. Muck and A. Benor and V. Wagner},
+	title={Environmental Stability and electronic transport of Pentacene Thin Film Transistors},
+	journal={J. of Non-Cryst. Solids},
+	year={2006}
+}
+@article{Knipp05-6,
+	author={D. Knipp and R.A. Street and H. Stiebig and M. Krause and J.-P Lu and S. Ready and J. Ho},
+	title={Thin Film color sensor Arrays},
+	journal={Mater. Res. Soc. Symp. Proc.},
+	year={2005},
+	pages={D1.6},
+	volume={869}
+}
+@article{Knipp05-7,
+	author={D. Knipp andR.A. Street},
+	title={Pentacene Thin Film Transistors on large area compatible gate dielectrics},
+	journal={J. of Non-Cryst. Solids},
+	year={2004},
+	keys={Small molecules, pentacene, thin film transistor, TFT, dielectrics, polymer},
+	pages={595},
+	volume={338-340}
+}
+@article{knipp05-2,
+	author={D. Knipp and H. Stiebig and S.R. Bhalotra and E. Bunte and H.L. Kung and D.A.B. Miller},
+	title={Silicon based Micro-Fourier spectrometer},
+	journal={IEEE Transactions on Electron Devices},
+	year={2005},
+	keys={Fourier Spectrometer, Spectrometer, thin films, optical sensor, multispectral imaging, hyper spectral imaging, MEMS, micro-machining},
+	number={3},
+	pages={419},
+	volume={52}
+}
+@Book{Ant05,
+  author =         {A.C. Antoulas},
+  title =          {Approximation of large-scale dynamical systems},
+  publisher =      {SIAM (Society for Industrial and Applied Mathematics)}, 
+  series =         {Advances in Design and Control DC06},
+  pages =          {479 pages},
+  year =           2005,
+  address =        {Philadelphia},
+}
+@Article{aca0,
+  author =         {A.C. Antoulas},
+  title =          {A new result on passivity preserving model reduction}, 
+  journal =        {Systems and Control Letters}, 
+  year =           2005,
+  volume =      54,
+  pages =       {361 -- 374},
+}
+
+@Article{aca1,
+  author =         {S. Gugercin and A.C. Antoulas},
+  title =          {Model reduction of large-scale systems by least squares},
+  journal =        {Linear Algebra and Its Applications},
+  year =           2005,
+  annote =      {Special Issue on Order Reduction of Large-Scale Systems, Edited by P. Benner, D.C. Sorensen, R. Freund, and A. Varga},
+}
+@Article{aca2,
+  author =         {A.C. Antoulas},
+  title =          {Frequency domain representation and singular value decomposition},
+  journal =        {UNESCO EOLSS (Encyclopedia for the Life Sciences)},
+  year =           2005,
+  annote =      {Contribution 6.43.13.4, 52 pages},
+}
+@Article{aca3,
+  author =         {A.C. Antoulas},
+  title =          {An overview of model reduction methods for large-scale dynamical systems}, 
+  journal =        {IFAC Annual Reviews in Control}, 
+  year =           2005,
+  volume =      {JARAP 228},
+  annote =      {Invited Paper},
+}
+@InCollection{aca4,
+  author =         {D.C. Sorensen and A.C. Antoulas},
+  title =          {On model reduction of structured systems}, 
+  booktitle =      {Dimension Reduction of Large-Scale Systems},
+  publisher =      {Springer Verlag},
+  pages =          {125 -- 138},
+  year =           {2005},
+  editor =         {P. Benner and V. Mehrmann and D.C. Sorensen},
+}
+@InCollection{aca5,
+  author =         {A. Antoulas and D. Sorensen and K. Gallivan and Van Dooren, A.  and A. Grama and C.  Hoffmann and A. Sameh},
+  title =          {Model reduction of large-scale dynamical systems},
+  booktitle =      {Lecture Notes in Computer Science, Vol. 3038},
+  publisher =      {Springer Verlag},
+  pages =          {740 -- 747},
+  year =           {2004},
+  editor =         {M. Bubak and G.D.v. Albada and P. M. A. Sloot and J. Dongarra}
+}
+@TechReport{aca6,
+  author =         {Q. Zhou and K. Mohanram and A.C. Antoulas},
+  title =          {Structure Preserving Reduction of Frequency-dependent Interconnect},
+  institution =    {Rice University},
+  month =          {June},
+  year =           {2005},
+}
+@TechReport{aca7,
+  author =         {A.C. Antoulas, E. Gildin, R.H. Bishop and D.C. Sorensen},
+  title =          {Model and controller reduction for seismically excited buildings},
+  institution =    {University of Texas at Austin, submitted to "Structural Control and Monitoring"},
+  month =          {November},
+  year =           {2005},
+}
+
+@Article{BerWeiLee:QFD05,
+  author = 	 {W. Bergholz and B. Weiss and C. Lee},
+  title = 	 {Quality Function Deployment as a way to improve the Creation of  Standards},
+  journal = 	 {Semiconductor Manufacturing Magazine},
+  year = 	 2005,
+  month = 	 {April}}
+
+
+@InProceedings{KumWeiPagBer:ecrtnd05,
+  author = 	 {Pravesh Kumar and Dietrich Weinmann and Uwe Pagel and Werner Bergholz},
+  title = 	 {Electrical Characterization of Random Telegraph Noise in Diodes, Charge Coupled Devices and Dynamic Random Access Memories},
+  booktitle = {Proc. MIGAS'05 Physical and Electrical Characterization of Materials and Devices for Silicon Nanoelectronics},
+  year = 	 2005}
+
+@Book{BaaBerg:ddf05,
+  author = 	 {O. Baale and W. Bergholz},
+  title = 	 {Das deutsche F\"uhrungsproblem},
+  publisher = 	 {dtv},
+  year = 	 2005,
+  address = 	 {Munich}}
+
+@Article{Kohlhase:Nature,
+  author = 	 {Michael Kohlhase and John Doe},
+  title = 	 {Dummy Article (I do not have a Nature Article)},
+  journal = 	 {Nature},
+  year = 	 2005,
+  pages =	 {300 -- 150}
+}
+
+@Article{Kohlhase:Science,
+  author = 	 {Michael Kohlhase and John Doe},
+  title = 	 {Dummy Article (I do not have a Science Article either)},
+  journal = 	 {Nature},
+  year = 	 2005,
+  pages =	 {300 -- 150}
+}
+
+
+@InProceedings{Kohlhase:CADE1,
+  author = 	 {Michael Kohlhase},
+  title = 	 {My Dummy Proceedings},
+  booktitle =	 {The Conference on Automated Deduction},
+  pages =	 {2 -- 2000},
+  year =	 2005,
+  editor =	 {John Doe},
+  volume =	 3663,
+  series =	 {Lecture Notes in Artificial Intelligence},
+  publisher =	 {Springer Verlag}
+}
+
+
+@InCollection{PB:enc,
+  title = {Raster Databases},
+  author = {Peter Baumann},
+  year = 2005,
+  publisher = {Ideas Publishing},
+  editor = {L. Rivero et al},
+  booktitle = {Encyclopedia of Database Technologies and Applications}
+}
+
+@InCollection{PB:ana,
+ author          = {Peter Baumann},
+ title           = {Web-gest\"utzte {A}nalysetechniken f\"ur mehrdimensionale {G}eo-{R}asterdatenbanken},
+ booktitle       = {3D-Geoinformationssysteme},
+ publisher       = {H\"uthig Verlag},
+ editor          = {Volker Coors and Alexander Zipf},
+ page            = {376},
+ year            = {2005},
+ note            = {SBN 3-87907-411-9}
+}
+
+
+@InCollection{PB:mod,
+  title          = {Modellierung und {A}nalyse von 3{D}-{R}asterdaten in {G}eodatenbanken},
+  author         = {Peter Baumann},
+ booktitle       = {3D-Geoinformationssysteme},
+ publisher       = {H\"uthig Verlag},
+ editor          = {Volker Coors and Alexander Zipf},
+ page            = {115},
+ year            = {2005},
+ note            = {ISBN 3-87907-411-9}
+}
+
+@inproceedings{PB:ESSDA,
+  author    = { Angela Scha"fer and
+                Vikram Unnithan and
+                Michael Diepenbroek and
+                Peter Baumann },
+  title     = {IRCCM - A New Integrated Data Management Approach (invited contribution). },
+  booktitle = {European Geosciences Union General Assembly 2005},
+  year      = {2005}
+}
+
+
+@inproceedings{PB:Etelsen,
+  author    = { Peter Baumann and
+                Angela Scha"fer and
+                Vikram Unnithan },
+  title     = { Efficient Online Geoscience Data Analysis Services and Maintainability},
+  booktitle = { 2nd Workshop SPP 1144, Etelsen, 28-30 June 2005 },
+  year      = { 2005 }
+}
+
+
+@article{PB:dbs,
+  author    = { Peter Baumann },
+  title     = { Rasterdatenbanken am Beispiel rasdaman},
+  journal   = { Datenbank-Spektrum },
+  volume    = 10,
+  year      = 2004,
+  pages     = { 30 - 37 }
+}
+
+
+@Article{Carpin:TRA2005,
+  author = 	 {S. Carpin and G. Pillonetto},
+  title = 	 {Motion Planning Using Adaptive Random Walks},
+  journal = 	 {IEEE Transactions on Robotics},
+  year =         2005,
+  volume =	 21,
+  number =	 1,
+  pages =	 {129-136}}
+
+
+
+@Article{Carpin:RAS2005,
+  author = 	 {S. Carpin and A. Birk and V. Jucikas},
+  title = 	 {On map merging},
+  journal = 	 {Robotics and autonomous systems},
+  year = 	 2005,
+  volume =	 53,
+  number =	 1,
+  pages =	 {1-14}}
+
+
+@Article{Carpin:AR,
+  author = 	 {A. Birk and S. Carpin},
+  title = 	 {Rescue robotics: a crucial milestone on the road to autonomous systems},
+  journal = 	 {Advanced robotics},
+  note =	 {accepted for publication},
+  year =         2005}
+
+
+@Article{Carpin:ACTA,
+  author = 	 {S. Carpin},
+  title = 	 {Randomized motion planning -- a tutorial},
+  journal = 	 {International Journal of Robotics and Automation},
+  year =         2005,
+  note = 	 {(accepted for publication)}}
+
+
+@InProceedings{Carpin:AIA,
+  author = 	 {S.Carpin},
+  title = 	 {Correlated samples for fast exploration of configuration spaces},
+  booktitle =	 {Artificial Intelligence Applications},
+  pages =	 {202-206},
+  year =	 2005}
+
+@InProceedings{Carpin:ROMOCO,
+  author = 	 {S. Carpin and G. Pillonetto},
+  title = 	 {Merging the adaptive random walks planner with the radomized potential field planner},
+  booktitle =	 {Proceedings of the IEEE International Workshop on Robot Motion and Control},
+  pages =	 {151-156},
+  year =	 2005}
+
+@InProceedings{Carpin:IAS,
+  author = 	 {S. Carpin and E. Pagello},
+  title = 	 {An experimental study of distributed robot coordination},
+  booktitle =	 {Intelligent autonomous systems 9},
+  year =         2005,
+  note =	 {accepted for publication}}
+
+
+
+
+
+@InProceedings{Carpin:HFES,
+  author = 	 {J. Wang and M. Lewis and M. Koes and S. Carpin},
+  title = 	 {Validating USARSim for use in HRI research},
+  booktitle =	 {Proceedings of the 49th meeting of the Human Factors and Ergonomics Society},
+  pages =	 {457-461},
+  year = 	 2005}
+
+
+
+@InProceedings{Carpin:RS1,
+  author = 	 {S. Carpin and J. Wang and M. Lewis and A. Birk and A. Jacoff},
+  title = 	 {High fidelity tools for rescue robotics: results and perspectives},
+  year =         2005,
+  booktitle =	 {Robocup 2005: Robot Soccer World Cup IX},
+  series =	 {LNCS}}
+
+@InProceedings{Carpin:RS2,
+  author = 	 {A. Birk and S. Carpin and W. Chonnaparamutt and V. Jucikas and H. Bastani and I. Delchev and I. Krivulev and S. Lee and S. Markov and A. Pfeil},
+  title = 	 {The IUB 2005 rescue robot team},
+  booktitle =	 {Robocup 2005: Robot Soccer World Cup IX},
+  series =	 {LNCS},
+  year =         2005}
+
+
+
+@InCollection{Carpin:ZIF,
+  author = 	 {S. Carpin},
+  title = 	 {Algorithmic motion planning: the randomized approach},
+  booktitle = 	 {General theory of information transfer and combinatorics},
+  publisher =	 {Shannon foundation},
+  year =	 2005,
+  editor =	 {R. Ahlswede}}
+
+
+
+@Proceedings{SS05,
+  editor =       "J. Sch{\"o}nw{\"a}lder and J. Serrat",
+  title =        "{Proc. 16th IFIP/IEEE Workshop on Distributed Systems:
+                  Operations and Management}",
+  address =      "Barcelona",
+  publisher =    "Springer LNCS 3775",
+  month =        oct,
+  year =         "2005",
+  isbn =         "3-540-29388-4",
+}
+
+@InProceedings{HS06,
+  author =       "M. Harvan and J. Sch{\"o}nw{\"a}lder",
+  title =        "{Prefix- and Lexicographical-order-preserving IP Address
+  Anonymization}",
+  booktitle =    "10th IEEE/IFIP Network Operations and Management Symposium",
+  year =         "2006",
+  month =        apr,
+  place =        "Vancouver",
+}
+
+@article{BGHSS05,
+  author = "R. Boutaba and G. Goldszmidth and H.G. Hegering 
+            and J. Sch{\"o}nw{\"a}lder and M. Sloman",
+  title = "{Guest Editorial Autonomic Communication Systems}",
+  journal =      "IEEE Journal on Selected Areas in Communications",
+  volume = 23,
+  number = 12,
+  pages = "2209-2212",
+  month = dec,
+  year = 2005,
+}
+
+@InProceedings{Sch05,
+  author =       "J. Sch{\"o}nw{\"a}lder",
+  title =        "{Characterization of SNMP MIB Modules}",
+  booktitle =    "Proc. 9th IFIP/IEEE International Symposium on
+                  Integrated Network Management",
+  publisher =    "IEEE",
+  pages =        "615--628",
+  month =        may,
+  year =         "2005",
+}
+
+@TechReport{RFC4001,
+  author =       "M. Daniele and B. Haberman and S. Routhier and J.
+                 Sch{\"o}nw{\"a}lder",
+  title =        "{Textual Conventions for Internet Network Addresses}",
+  institution =  "SyAM Software, Johns Hopkins University,
+                  Wind River Systems, International University Bremen",
+  type =         "RFC",
+  number =       "4001",
+  month =        feb,
+  year =         "2005",
+}
+
+@TechReport{RFC4088,
+  author =       "D. Black and K. McCloghrie and J. Sch{\"o}nw{\"a}lder",
+  title =        "{Uniform Resource Identifier (URI) Scheme for the
+               Simple Network Management Protocol (SNMP)}",
+  institution =  "EMC Corporation, Cisco Systems,
+                  International University Bremen",
+  type =         "RFC",
+  number =       "4088",
+  month =        jun,
+  year =         "2005",
+}
+
+
+@article{
+multimap_ras05,
+   Author = {Carpin, Stefano and Birk, Andreas and Jucikas, Victoras},
+   Title = {On Map Merging},
+   Journal = {International Journal of Robotics and Autonomous Systems},
+   Publisher = {Elsevier Science},
+   Volume = {53},
+   Pages = {1--14},
+ Keywords = {BIRK},
+   Year = {2005} }
+
+@incollection{
+birk_rescueteam_rcup05,
+   Author = {Birk, Andreas and Carpin, Stefano and Chonnaparamutt, Winai and Jucikas, Viktoras and Bastani, Hamed and Delchev, Ivan and Krivulev, Ivan and Lee, Seongchu and Markov, Stefan and Pfeil, Andreas},
+   Title = {The {IUB} 2005 Rescue Robot Team},
+   BookTitle = {{RoboCup} 2005: Robot Soccer World Cup IX},
+   Editor = {Noda, Itsuki and Jacoff, Adam and Bredenfeld, Ansgar and Takahashi, Yasutake},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+ Keywords = {BIRK},
+   Year = {2006 (in press)} }
+
+@incollection{
+birk_commexplore_rcup05,
+   Author = {Rooker, Martijn and Birk, Andreas},
+   Title = {Communicative Exploration with Robot Packs},
+   BookTitle = {{RoboCup} 2005: Robot Soccer World Cup IX},
+   Editor = {Noda, Itsuki and Jacoff, Adam and Bredenfeld, Ansgar and Takahashi, Yasutake},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+ Keywords = {BIRK},
+   Year = {2006 (in press)} }
+
+@incollection{
+birk_virtualrobot_rcup05,
+   Author = {Carpin, Stefano and Birk, Andreas and Lewis, Michael and Jacoff, Adam},
+   Title = {High fidelity tools for rescue robotics: results and perspectives},
+   BookTitle = {{RoboCup} 2005: Robot Soccer World Cup IX},
+   Editor = {Noda, Itsuki and Jacoff, Adam and Bredenfeld, Ansgar and Takahashi, Yasutake},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+ Keywords = {BIRK},
+   Year = {2006 (in press)} }
+
+@incollection{
+birk_rescueGUI_rcup05,
+   Author = {Birk, Andreas and Pfingsthorn, Max},
+   Title = {A HMI supporting Adjustable Autonomy of Rescue Robots},
+   BookTitle = {{RoboCup} 2005: Robot Soccer World Cup IX},
+   Editor = {Noda, Itsuki and Jacoff, Adam and Bredenfeld, Ansgar and Takahashi, Yasutake},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+ Keywords = {BIRK},
+   Year = {2006 (in press)} }
+
+@incollection{
+birk_rescuecabledrum_rcup05,
+   Author = {Birk, Andreas and Condea, Cosmin},
+   Title = {Mobile Robot Communication without the Drawbacks of Wireless Networking},
+   BookTitle = {{RoboCup} 2005: Robot Soccer World Cup IX},
+   Editor = {Noda, Itsuki and Jacoff, Adam and Bredenfeld, Ansgar and Takahashi, Yasutake},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+ Keywords = {BIRK},
+   Year = {2006 (in press)} }
+
+@incollection{
+birk_rescueteam_rcup04,
+   Author = {Birk, Andreas},
+   Title = {The {IUB} 2004 Rescue Robot Team},
+   BookTitle = {{RoboCup} 2004: Robot Soccer World Cup VIII},
+   Editor = {Nardi, Daniele and Riedmiller, Martin and Sammut, Claude},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+   Volume = {3276},
+ Keywords = {BIRK},
+   Year = {2005} }
+
+@incollection{
+birk_multimap_rcup04,
+   Author = {Carpin, Stefano and Birk, Andreas},
+   Title = {Stochastic map merging in rescue environments},
+   BookTitle = {{RoboCup} 2004: Robot Soccer World Cup VIII},
+   Editor = {Nardi, Daniele and Riedmiller, Martin and Sammut, Claude},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+   Volume = {3276},
+   Pages = {p.483ff},
+ Keywords = {BIRK},
+   Year = {2005} }
+
+@incollection{
+birk_commexlpore_rcup04,
+   Author = {Rooker, Martijn and Birk, Andreas},
+   Title = {Combining Exploration and Ad-Hoc Networking in RoboCup Rescue},
+   BookTitle = {{RoboCup} 2004: Robot Soccer World Cup VIII},
+   Editor = {Nardi, Daniele and Riedmiller, Martin and Sammut, Claude},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+   Volume = {3276},
+   Pages = {pp.236-246},
+ Keywords = {BIRK},
+   Year = {2005} }
+
+@incollection{
+birk_cuberescue_rcup04,
+   Author = {Kenn, Holger and Birk, Andreas},
+   Title = {From Games to Applications: Component reuse in Rescue Robots},
+   BookTitle = {{RoboCup} 2004: Robot Soccer World Cup VIII},
+   Editor = {Nardi, Daniele and Riedmiller, Martin and Sammut, Claude},
+   Series = {Lecture Notes in Artificial Intelligence (LNAI)},
+   Publisher = {Springer},
+   Volume = {3276},
+   Pages = {p.669ff},
+ Keywords = {BIRK},
+   Year = {2005} }
+
+@incollection{
+CarpinRS2004,
+   Author = {Carpin, S. and Birk, A.},
+   Title = {Stochastic map merging in rescue environments},
+   BookTitle = {Robocup 2004: Robot Soccer World Cup VIII},
+   Publisher = {Springer},
+ Year = {2005} }
+
+@incollection{
+ROOKER05b,
+   Author = {Rooker, M. N. and Birk, A.},
+   Title = {Combining {E}xploration and {A}d-{H}oc {N}etworking in {R}obo{C}up {R}escue},
+   BookTitle = {RoboCup 2004: Robot Soccer World Cup VIII},
+   Editor = {Nardi, Daniela and Riedmiller, Martin and al., Claude Sammet et},
+   Series = {Lecture Notes in Computer Science},
+   Publisher = {Springer-Verlag GmbH},
+ Keywords = {COOPERATION EXPLORATION },
+   Year = {2005} }
+
+@article{
+birkRescRobARJ06,
+   Author = {Birk, Andreas and Carpin, Stefano},
+   Title = {Rescue Robotics - a crucial milestone on the road to autonomous systems},
+   Journal = {Advanced Robotics Journal},
+   Publisher = {VSP International Science Publisher},
+   Volume = {20},
+   Number = {5},
+ Year = {2006 (in press)} }
+
+@InProceedings{hass05:user,
+  author = 	 {K Hassan and H Haas},
+  title = 	 {{User Scheduling for Cellular Multi User Access OFDM System Using 
+Opportunistic Beamforming}},
+  booktitle = 	 OfdmWshp05,
+  pages =	 {26 -- 30},
+  year =	 2005,
+  address =	 OfdmWshp05address,
+  month =	 OfdmWshp05date
+}
+
+@InProceedings{nguy05:dece,
+  author = 	 {Van Duc Nguyen and Peter E Omiyi and Harald Haas},
+  title = 	 {{Decentralised Dynamic Channel Assignment for Cellular OFDM/TDD Networks}},
+  booktitle = 	 OfdmWshp05,
+  pages =	 {255 - 259},
+  year =	 2005,
+  address =	 OfdmWshp05address,
+  month =	 OfdmWshp05date
+}
+
+@InBook{haas05:air,
+  author =	 {H. Haas},
+  title = 	 {H Bidgoli, ed. {The Handbook of Information Security}},
+  chapter = 	 {{Air-interface Requirements of Mobile Data Services}},
+  publisher = 	 {John Wiley \& Sons},
+  year = 	 2005,
+  address =	 {New York},
+  month =	 dec
+}
+
+@InProceedings{jain05:anal,
+  author = 	 {P K Jain and H Haas},
+  title = 	 {{Analysis of User Distributions in CDMA Systems}},
+  booktitle = 	 pimrc05,
+  pages =	 {5 pages on CD-Rom},
+  year =	 2005,
+  address =	 pimrc05address,
+  month =	 pimrc05date,
+  publisher =	 {IEEE}
+}
+
+@InProceedings{omiy05:dist,
+  author = 	 {P Omiyi and H Haas},
+  title = 	 {{Distributed Intercellular Interference Management in 4th Generation TDMA TDD Cellular Mobile Wireless Communications}},
+  booktitle = 	 pimrc05,
+  pages =	 {5 pages on CD-Rom},
+  year =	 2005,
+  address =	 pimrc05address,
+  month =	 pimrc05date,
+  publisher =	 {IEEE}
+}
+
+@InProceedings{venk05:perf,
+  author = 	 {H Venkataraman and H Haas and Y Lee and S Yun and S McLaughlin},
+  title = 	 {{Performance Analysis for Hybrid Wireless Networks}},
+  booktitle = 	 pimrc05,
+  pages =	 {5 pages on CD-Rom},
+  year =	 2005,
+  address =	 pimrc05address,
+  month =	 pimrc05date,
+  publisher =	 {IEEE}
+}
+
+@InProceedings{mesl05:inte,
+  author = 	 {R Mesleh and H Haas and Y Lee and S Yun},
+  title = 	 {{Interchannel Interference Avoidance in MIMO Transmission by Exploiting Spatial Information}},
+  booktitle = 	 pimrc05,
+  pages =	 {5 pages on CD-Rom},
+  year =	 2005,
+  address =	 pimrc05address,
+  month =	 pimrc05date,
+  publisher =	 {IEEE}
+}
+
+@InProceedings{ever05:perf,
+  author = 	 {C Evers and R Esmailzadeh and H Haas and M Nakagawa},
+  title = 	 {{Performance of a hybrid TDD-CDMA system with random slot allocation (RSA) in comparison with an equivalent FDD-CDMA system}},
+  booktitle = 	 ist05,
+  pages =	 {5 pages on CD-Rom},
+  year =	 2005,
+  address =	 ist05address,
+  month =	 ist05date
+}
+
+
+@article{BP06,
+  author="Benedetto, J.J. and Pfander, G.E.",
+  title="Frame expansions for {G}abor multipliers",
+  journal=" {\rm To appear in}  Appl.\ Comp.\ Harm.\ Anal.",
+  year=2006,
+}
+
+
+
+@article{KP06,
+  author="Kozek, W. and Pfander, G.E.",
+  title="Identification of operators with bandlimited symbols",
+  journal= "SIAM J.\ Math.\ Anal. ",
+  volume="37",
+  number="3",
+  pages= "867-888",
+  year="2006",
+  available="y",
+}
+
+
+@unpublished{GP05,
+  author="Grip, N. and Pfander, G.E.",
+  title="A discrete model for the efficient analysis of
+  time--varying narrowband communications channels",
+  note="{ \rm {S}ubmitted to } {\it IEEE Trans. Info. Theory}",
+  year=2005,
+}
+
+
+@unpublished{KPR05,
+  author="Krahmer, F. and Pfander, G.E. and Rashkov, P.",
+  title="Uncertainty principles for time--frequency representations on finite abelian groups",
+  note="{I}n preparation",
+  year=2005,
+}
+
+
+@unpublished{Pfa05,
+ author="G.E. Pfander ",
+ title="Two results on the invertibility of bi--infinite matrices with applications to {G}abor analysis",
+ note="In preparation",
+ year=2005,
+}
+
+
+@unpublished{Pfa05b,
+  author="Pfander, G.E.",
+  title="Measurement of time--variant {MIMO} channels",
+  note="{I}n preparation",
+  year=2005,
+  available="y",
+}
+
+@article{LPW05,
+  author="Lawrence, J. and Pfander, G.E. and Walnut, D.",
+  title="Linear independence of Gabor systems in finite dimensional vector spaces",
+  journal="J. Fourier Anal. Appl.",
+  year="2005",
+  volume="11",
+  number="6",
+  pages="715--726",
+  available="y",
+}
+
+
+@unpublished{PW05,
+  author="Pfander, G.E. and Walnut, D.",
+  title="Measurement of Time--Variant Channels",
+  note="{ \rm {S}ubmitted to } {\it IEEE Trans. Info. Theory}",
+  year=2005,
+}
+
+@article{PW06,
+  author="Pfander, G.E. and Walnut, D.",
+  title="Operator identifcation and {F}eichtinger's algebra",
+  journal="{ \rm To appear in } Sampl. Theory  Signal Image Process.",
+  year=2005,
+}
+
+@inproceedings{Jaeger05,
+  author = {Jaeger, H.},
+  title = {Reservoir Riddles: Suggestions for Echo State
+Network Research (Extended Abstract)},
+  booktitle =  {Proc. IJCNN 2005},
+  year = {2005},
+    editor =  {},
+    number =  {},
+    series = {},
+    pages = {1460-1462},
+    organization = {INNS / IEEE},
+    publisher = {},
+keywords = {#1926 .esn}
+}
+
+@inproceedings{JaegerZhaoKolling05,
+  author = {Jaeger, H. and Zhao, M. and Kolling, M.},
+  title = {Efficient Estimation of OOMs},
+  booktitle =  {Proc. NIPS 2005},
+  year = {2005},
+    editor =  {},
+    number =  {},
+    series = {},
+    pages = {},
+    organization = {},
+    publisher = {},
+keywords = {#1926 .oom}
+}
+
+@incollection{Jaegeretal05,
+  author = {Jaeger, H. and  Zhao, M. and Kretzschmar, K. and Oberstein, T. and Popovici, D. and  Kolling, A. },
+  title = {Learning observable operator models via the ES algorithm},
+  booktitle =  {New Directions in Statistical Signal Processing: from Systems to Brain},
+  publisher = {MIT Press},
+  year = {2006},
+    editor =  {Haykin,S. and Principe, J. and Sejnowski,T. and McWhirter, J. },
+    volume =  {},
+    series = {},
+    chapter = {20},
+    pages = {},
+keywords = {#1934 .oom}
+}
+
+@Article{Hu_Henkel:EL,
+  author = 	 {Fangning Hu and Werner Henkel},
+  title = 	 {Turbo-like Iterative Least-Squares Decoding of Analogue Codes},
+  journal = 	 {Electronics Letters},
+  year = 	 2005,
+  volume =	 {41},
+  number =	 {22},
+  pages =	 {1233--1234}
+}
+
+@InProceedings{Henkel_Hu:OFDM,
+  author = 	 {Werner Henkel and Fangning Hu},
+  title = 	 {OFDM and Analog RS/BCH Codes},
+  booktitle =	 {Proceedings of the OFDM Workshop},
+  year =	 2005,
+  address = 	 {Hamburg},
+  month = 	 {Aug. 31 -- Sept. 1}}
+
+@InProceedings{Henkel_vDeetzen:IZS,
+  author = 	 {Werner Henkel and von Deetzen, Neele},
+  title = 	 {Path Pruning for UEP Turbo Codes},
+  booktitle =	 {Proceedings of the International Z\"urich Seminar on Broadband Communications},
+  year =	 2006,
+  address = 	 {Z\"urich},
+  month = 	 {Feb. 22 -- 24}}
+
+
+
+@Proceedings{MKM05,
+  title = 	 {Mathematical Knowledge Management, MKM'05},
+  booktitle = 	 {Mathematical Knowledge Management, MKM'05},
+  year = 	 2005,
+  editor =	 {Michael Kohlhase},
+  series =	 {LNAI/LNCS forthcoming},
+  number =       {3863},
+  publisher =	 {Springer Verlag}
+}
+

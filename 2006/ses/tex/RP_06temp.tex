@@ -1,0 +1,541 @@
+\documentclass[11pt,a4paper,twoside,twocolumn]{article}
+
+\usepackage{graphicx,parskip,times,amsfonts,amsmath}
+%\usepackage{url}
+%\usepackage{html}
+\usepackage{esc-handbook-my}
+\usepackage{eurosym}
+%\usepackage{chapterbib}
+\usepackage{natbib}
+\usepackage{a4,a4wide}
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage{bibunits}
+\usepackage{longtable}
+\usepackage{bpchem}
+\usepackage{makeidx}
+\makeindex
+
+%%/Users/Dierk/IUB documents 2005/Research Reports/Research Report 2005/SinDynamics.pdf
+\hyphenation{Schlei-cher} \hyphenation{geo-me-try}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\R}{\mathbb{R}}
+\usepackage{latexsym}
+\newcommand{\bbbr}{\mathbb{R}}
+\newcommand{\bbbn}{\mathbb {N}}
+\newcommand{\bbbc}{\mathbb {C}}
+
+%---------------------PDF-definitions--------------------------------------
+\usepackage[pdftex,           %%% hyper-references for pdflatex
+  hypertexnames=false,%       %%% needed for correct links to figures
+  breaklinks=true,%           %%% break links if exceeding a single line
+  colorlinks=true,%           %%% to underline links instead of boxing
+  urlcolor=blue]{hyperref}    %%% blue instead of cyan URLS
+%---------------------end-of-PDF-definitions-------------------------------
+
+
+\newcommand{\mycaption}[1]{\caption{{\footnotesize #1}}}
+\renewcommand*{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+    \hbox{}
+    \if!\blankpagetext!\else
+    \vfil \begin{center} \setlength{\fboxsep}{3mm}%
+    \framebox{\blankpagetext}
+    \end{center}\vfil\vfil \fi
+    \newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\newcommand*{\resetpages}{\cleardoublepage\pagenumbering{arabic}}
+\raggedbottom \pagenumbering{Roman}
+
+\newenvironment{myitemize}{\begin{list}{-}{\labelwidth=0.2cm \leftmargin0.4cm
+\labelsep0.2cm \rightmargin0cm \parsep0.5ex plus0.2ex minus0.1ex
+\itemsep0ex
+ plus0.2ex}}{\end{list}}
+
+% new line after paragraph heading
+\makeatletter
+\newcommand\myparagraph{%
+\@startsection{paragraph}{4}{\z@}%
+{-3.25ex \@plus1ex \@minus.2ex}%
+{.15ex \@plus.1ex \@minus.1ex}%
+{\normalfont\normalsize\bfseries}}
+\makeatother
+
+\setlength{\parskip}{0pt plus 1pt}
+\begin{document}
+% Robert's hacks:
+\def\Hchapter{\paragraph}
+\def\bpchem{\BPChem}   % Otherwise screwed up by BibTeX
+%
+\graphicspath{{./MathTheoPhys/}{./Physics/}{./Nano/}{./LifeSciences/}{./GeoAstro/}{./EECS/}}
+
+\title     {School of Engineering and Science \\
+            Research Report 2005} \shorttitle{RP 2006}
+\author    {Anke Allner}
+\date      {2006 January 18}
+\masterfile{SES--RR--2006} \issue     {0} \revision {1} \version
+{2}{0}{27.12.05}{Test}
+
+\renewcommand{\refname}{\medbreak Publications\vadjust{\nobreak}}
+\renewcommand{\bibname}{\medbreak Publications\vadjust{\nobreak}}
+
+
+Version of \the\day-\the\month-\the\year
+
+\shorttitle{Table of Contents} \tableofcontents \resetpages
+\input{Dean} \cleardoublepage
+%\bibliographyunit[\subsection]
+\input{./EECS/ITintro}
+\input{./EECS/ComNet}
+\begin{bibunit}[hplain]
+  \input{./EECS/haas}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/henkel}
+  \putbib[combined]
+\end{bibunit}
+{\noheader
+\begin{bibunit}[hplain]
+  \input{./EECS/pfander}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/wallace}
+  \putbib[combined]
+\end{bibunit}
+\input{./EECS/SmartSystems}
+\begin{bibunit}[hplain]
+  \input{./EECS/kohlhase}
+  \putbib[combined]
+\end{bibunit}
+}
+\begin{bibunit}[hplain]
+  \input{./EECS/antoulas}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/baumann}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/linsen2006}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/stamerjohanns}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/schoenwaelder}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/Jaeger_2006}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/birk}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/carpin}
+  \putbib[combined]
+\end{bibunit}
+\input{./EECS/Microelectronics}
+\begin{bibunit}[hplain]
+  \input{./EECS/knipp}
+  \putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+  \input{./EECS/bergholz}
+  \putbib[combined]
+\end{bibunit}
+
+% %Life Sciences
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+
+
+%\shorttitle{Life Sciences}
+%\section{Life Sciences}
+\input{./LifeSciences/Intro_Life_Sci.tex}
+
+
+
+\input{./LifeSciences/ComputationalBiology.tex}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Gloeckner/Gloeckner_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Zacharias/Zacharias_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Huett/Huett_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Meyer-Ortmanns/Meyer-Ortmanns_2006}
+\putbib[combined]
+\end{bibunit}
+
+
+\input{./LifeSciences/Biophysics.tex}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Winterhalter/Winterhalter_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Kleinekathoefer/Kleinekathoefer1_2006}
+\putbib[combined]
+\end{bibunit}
+
+
+\input{./LifeSciences/Biotechnology}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Jeltsch/Jeltsch_2_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Nau/Nau_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Schwaneberg/Schwaneberg_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Fernandez-Lahore/Fernandez-Lahore_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Roccatano/Roccatano_2006_Biotech}
+\putbib[combined]
+\end{bibunit}
+
+
+\input{./LifeSciences/MolLifeSci}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Jeltsch/Jeltsch_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Muskhelishvili/Muskhelishvili_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Brix/Brix_2006}
+\putbib[combined]
+\end{bibunit}
+
+%\begin{bibunit}[hplain]
+\input{./LifeSciences/Kuehl/Kuehl_2006}
+%\putbib[combined]
+%\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Springer/Springer_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Ullrich/Ullrich_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Boetius/Boetius_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Koehler/Koehler_2006}
+\putbib[combined]
+\end{bibunit}
+
+
+
+
+
+\input{./LifeSciences/Neurosciences}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Hilgetag/Hilgetag_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Lerchl/Lerchl_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Meyer-Rochow/Meyer-Rochow_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./LifeSciences/Zupanc/Zupanc_2006}
+\putbib[combined]
+\end{bibunit}
+
+%\input{./LifeSciences/Facilities}
+
+
+\cleardoublepage
+\shorttitle{Geosciences and Astrophysics}
+\section{Geosciences and Astrophysics}
+\input{./GeoAstro/GeoAstroIntro}
+\shorttitle{Geochemistry}
+\subsection{Geochemistry}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Bau/Bau}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Koschinsky/Koschinsky.tex}
+\putbib[combined]
+\end{bibunit}
+\shorttitle{Marine Geology and Geophysics}
+\subsection{Marine Geology and Geophysics}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Thomsen/Thomsen}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Unnithan/unnithan_schaefer_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Bijma/Bijma_2006}
+\putbib[combined]
+\end{bibunit}
+\shorttitle{Computational Space and Astrophysics}
+\subsection{Computational Space and Astrophysics}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Bruggen/Bruggen_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Rosswog/Rosswog_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./GeoAstro/Vogt/Vogt_2006}
+\putbib[combined]
+\end{bibunit}
+\cleardoublepage
+\section{Nanoscience and Material Research}
+\subsection{Molecular Electronics and Dynamics}
+\shorttitle{Molecular Electronics and Dynamics}
+\begin{bibunit}[hplain]
+\input{./Nano/Kleinekathoefer/Kleinekathoefer2_2006}
+\putbib[combined]
+\end{bibunit}
+%\input{./Nano/Introduction_Nanoscience}
+\begin{bibunit}[hplain]
+\input{./Nano/Knipp/knipp_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./Nano/Materny/materny_2006}
+\putbib[combined]
+\end{bibunit}
+%\input{./Nano/Rohlfing_2005}
+\begin{bibunit}[hplain]
+\input{./Nano/Tautz/Tautz_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./Nano/Wagner/Wagner_2006}
+\putbib[combined]
+\end{bibunit}
+
+\cleardoublepage
+\subsection{Novel Materials}
+ \shorttitle{Novel Materials}
+\begin{bibunit}[hplain]
+\input{./Nano/Kortz/Kortz_2006}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./Nano/Nugent/Nugent}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./Nano/Richards/Richards}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./Nano/Roccatano/DrRoccatano2006_NanoTech}
+\putbib[combined]
+\end{bibunit}
+\begin{bibunit}[hplain]
+\input{./Nano/Kuhnert/Kuhnert.tex}
+\putbib[combined]
+\end{bibunit}
+
+\cleardoublepage
+\subsection{Bionanotechnology}
+\shorttitle{Bionanotechnology}
+
+\begin{bibunit}[hplain]
+\input{./Nano/Nau/Nau_Nano.tex}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./Nano/Fritz/Fritz}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./Nano/Winterhalter/Winterhalter_2006b}
+\putbib[combined]
+\end{bibunit}
+
+
+\begin{bibunit}[hplain]
+\input{./Nano/Fernandez-Lahore/Fernandez-Lahore_Nano2006}
+\putbib[combined]
+\end{bibunit}
+
+\cleardoublepage
+%\section{Mathematics and \\ Theoretical Physics}
+\input{./MathTheoPhys/MathTheoPhys-Intro}
+\shorttitle{Pure Mathematics}\subsection{Pure Mathematics}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Kaimanovich/kaimanovich}
+\putbib[combined]
+\end{bibunit}
+
+%\begin{bibunit}
+\input{./MathTheoPhys/Mallahi-Karai/MallahiKarai_2006_Researc.tex}
+%\putbib[combined]
+%\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Penkov/profPenkov_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Schleicher/Schleicher_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Comerford/ComerfordResearchReport}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Stoll/stoll_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Baier/Baier_2006.tex}
+\putbib[combined]
+\end{bibunit}
+
+%\input{./MathTheoPhys/Styrkas_2005}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Belov/belov.tex}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Litvinov/Litvinov}
+\putbib[combined]
+\end{bibunit}
+
+%\input{./MathTheoPhys/Tikhomirov_2005}
+
+\shorttitle{Applied Mathematics}\subsection{Applied Mathematics}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Khalli/khalili-2006}
+\putbib[combined]
+\end{bibunit}
+
+%\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Linsen/linsen2006_2}
+%\putbib[combined]
+%\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Oliver/Research-Report-Oliver2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Oswald/Oswald_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Pfander/Pfander2_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Tikhomirov/Tikhomirov}
+\putbib[combined]
+\end{bibunit}
+
+
+\shorttitle{Theoretical and Computational Physics}
+\subsection{Theoretical and Computational Physics}
+
+%\input{./MathTheoPhys/Hartmann_2005}
+%\input{./MathTheoPhys/Kramer_2006}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Ortmanns/Ortmanns_2006}
+\putbib[combined]
+\end{bibunit}
+
+\begin{bibunit}[hplain]
+\input{./MathTheoPhys/Schupp/Schupp_2006}
+\putbib[combined]
+\end{bibunit}
+
+\input{./MathTheoPhys/Bruggen2_2006}
+\input{./MathTheoPhys/Kleinekathoefer3_2006}
+\input{./MathTheoPhys/Rosswog2_2006}
+\input{./MathTheoPhys/Vogt2_2006}
+%\shorttitle{Template Test}
+%\input{./scratch/Template2006}
+
+\onecolumn
+\input All
+
+\section{Index} \printindex
+
+%\shorttitle{References}
+\renewcommand{\bibsection}{\paragraph{\refname}\par}
+\setlength{\bibhang}{0pt}
+\bibliographystyle{hplain}
+%\bibliography{ses,report}
+%\defaultbibliography{combined}
+%\bibliography{combined}
+\end {document}

@@ -1,0 +1,122 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: report.aux
+A level-1 auxiliary file: ITintro.aux
+A level-1 auxiliary file: ComNet.aux
+A level-1 auxiliary file: haas.aux
+A level-1 auxiliary file: henkel.aux
+A level-1 auxiliary file: schoenwaelder.aux
+A level-1 auxiliary file: Jaeger_2006.aux
+A level-1 auxiliary file: pfander.aux
+A level-1 auxiliary file: wallace.aux
+A level-1 auxiliary file: Robotics.aux
+A level-1 auxiliary file: birk.aux
+A level-1 auxiliary file: carpin.aux
+A level-1 auxiliary file: Knowledge.aux
+A level-1 auxiliary file: kohlhase.aux
+A level-1 auxiliary file: antoulas.aux
+A level-1 auxiliary file: baumann.aux
+A level-1 auxiliary file: linsen2006.aux
+A level-1 auxiliary file: stamerjohanns.aux
+A level-1 auxiliary file: Microelectronics.aux
+A level-1 auxiliary file: knipp.aux
+A level-1 auxiliary file: bergholz.aux
+The style file: alpha.bst
+Database file #1: profJaeger.bib
+Database file #2: profkohlhase.bib
+Database file #3: profbaumann.bib
+Database file #4: birk2006.bib
+Database file #5: henkel.bib
+Database file #6: profLinsen.bib
+Database file #7: report-pfander-2005.bib
+Database file #8: schoenwaelder.bib
+Database file #9: wallace.bib
+Database file #10: profantoulas.bib
+Database file #11: stamerjohanns.bib
+Database file #12: macros.bib
+Database file #13: cwc.bib
+Database file #14: report.bib
+Repeated entry---line 372 of file report.bib
+ : @article{aca1
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 612 of file report.bib
+ : @inproceedings{Carpin:RS1
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 649 of file report.bib
+ : @inproceedings{HS06
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 719 of file report.bib
+ : birk_rescueteam_rcup05
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 730 of file report.bib
+ : birk_commexplore_rcup05
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 741 of file report.bib
+ : birk_virtualrobot_rcup05
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 752 of file report.bib
+ : birk_rescueGUI_rcup05
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 763 of file report.bib
+ : birk_rescuecabledrum_rcup05
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 844 of file report.bib
+ : birkRescRobARJ06
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1012 of file report.bib
+ : @article{PW06
+ :              ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need editor, organization, or key in ITC06
+Warning--empty year in Carpin:RS3
+Warning--empty title in ITC06
+You've used 98 entries,
+            2543 wiz_defined-function locations,
+            1686 strings with 35884 characters,
+and the built_in function-call counts, 42207 in all, are:
+= -- 4104
+> -- 2342
+< -- 63
++ -- 816
+- -- 791
+* -- 3013
+:= -- 6909
+add.period$ -- 326
+call.type$ -- 98
+change.case$ -- 644
+chr.to.int$ -- 80
+cite$ -- 102
+duplicate$ -- 1768
+empty$ -- 3022
+format.name$ -- 900
+if$ -- 8796
+int.to.chr$ -- 19
+int.to.str$ -- 0
+missing$ -- 91
+newline$ -- 495
+num.names$ -- 338
+pop$ -- 742
+preamble$ -- 1
+purify$ -- 752
+quote$ -- 0
+skip$ -- 1409
+stack$ -- 0
+substring$ -- 1638
+swap$ -- 363
+text.length$ -- 61
+text.prefix$ -- 17
+top$ -- 0
+type$ -- 752
+warning$ -- 3
+while$ -- 362
+width$ -- 102
+write$ -- 1288
+(There were 10 error messages)

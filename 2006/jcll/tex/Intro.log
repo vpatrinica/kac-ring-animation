@@ -1,0 +1,27 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2009.3.8)  8 MAR 2009 19:40
+entering extended mode
+**Intro.tex
+(Intro.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+! Undefined control sequence.
+l.1 \section
+            {An Introduction from the Dean} \shorttitle{The Jacobs Center fo...
+
+? 
+! Emergency stop.
+l.1 \section
+            {An Introduction from the Dean} \shorttitle{The Jacobs Center fo...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 95305
+ 76 string characters out of 1183060
+ 45021 words of memory out of 1500000
+ 3306 multiletter control sequences out of 110000
+ 3640 words of font info for 14 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 5i,0n,1p,135b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
