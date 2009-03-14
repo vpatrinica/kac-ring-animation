@@ -1,1 +1,0 @@
-Enclosed please find the files for the individual "Professor-Pages" for section 2 "Art and Literature" and section 3 "History". 
