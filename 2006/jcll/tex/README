@@ -1,6 +1,0 @@
-RP_06temp.tex is a sample master file which should compile (pdflatex
-and bibtex) to a valid pdf output containing a sample entry including
-bibliography.
-
-Included some tweeks to make it work with bibunits.sty for separate
-bibliographies of sections 
