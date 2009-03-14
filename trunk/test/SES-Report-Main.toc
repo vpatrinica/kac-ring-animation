@@ -1,0 +1,45 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.2}
+\contentsline {subsection}{\numberline {1.1}The Mission}{1}{subsection.4}
+\contentsline {subsection}{\numberline {1.2}Factual Development During the Founding Period}{2}{subsection.5}
+\contentsline {subsubsection}{\numberline {1.2.1}Students}{2}{subsubsection.6}
+\contentsline {subsubsection}{\numberline {1.2.2}Publications}{2}{subsubsection.8}
+\contentsline {subsubsection}{\numberline {1.2.3}Grants}{2}{subsubsection.10}
+\contentsline {subsection}{\numberline {1.3}Personnel}{2}{subsection.13}
+\contentsline {subsection}{\numberline {1.4}International Center for Transdisciplinary Science}{3}{subsection.14}
+\contentsline {subsection}{\numberline {1.5}Workshops and Summer Schools}{4}{subsection.15}
+\contentsline {subsection}{\numberline {1.6}Research Highlights}{4}{subsection.16}
+\contentsline {subsection}{\numberline {1.7}Noteworthy}{5}{subsection.17}
+\contentsline {section}{\numberline {2}Information and Communication Technologies}{7}{section.18}
+\contentsline {subsection}{\numberline {2.1}Communication Networks and Systems}{7}{subsection.19}
+\contentsline {subsubsection}{\numberline {2.1.1}Cellular and Wireless Communications}{7}{subsubsection.20}
+\contentsline {paragraph}{Research Team}{7}{section*.21}
+\contentsline {paragraph}{Highlights}{8}{section*.22}
+\contentsline {paragraph}{Organization}{9}{section*.26}
+\contentsline {paragraph}{Collaborations}{9}{section*.29}
+\contentsline {paragraph}{Grants}{9}{section*.31}
+\contentsline {paragraph}{Patents}{9}{section*.37}
+\contentsline {paragraph}{Awards, Prizes}{9}{section*.40}
+\contentsline {subsubsection}{\numberline {2.1.2}Digital Transmission Methods and Coding}{10}{subsubsection.44}
+\contentsline {paragraph}{Research Team}{10}{section*.45}
+\contentsline {paragraph}{Highlights}{11}{section*.46}
+\contentsline {paragraph}{Organization}{12}{section*.49}
+\contentsline {paragraph}{Grants}{12}{section*.51}
+\contentsline {paragraph}{Patents}{12}{section*.53}
+\contentsline {section}{\numberline {3}Education}{13}{section.57}
+\contentsline {subsection}{\numberline {3.1}Master's Degrees}{13}{subsection.58}
+\contentsline {paragraph}{Biological Recognition}{13}{section*.59}
+\contentsline {paragraph}{Communications, Systems and Electronics}{14}{section*.66}
+\contentsline {paragraph}{Geo-Ocean Dynamics}{14}{section*.71}
+\contentsline {paragraph}{Nanomolecular Science}{14}{section*.75}
+\contentsline {paragraph}{Smart Systems}{14}{section*.79}
+\contentsline {subsection}{\numberline {3.2}PhD Degrees}{15}{subsection.86}
+\contentsline {paragraph}{Mathematical Sciences}{15}{section*.87}
+\contentsline {paragraph}{Chemical Sciences}{15}{section*.90}
+\contentsline {paragraph}{Life Sciences}{15}{section*.96}
+\contentsline {section}{\numberline {4}The School of Engineering and Science}{17}{section.109}
+\contentsline {subsection}{\numberline {4.1}Administration}{17}{subsection.110}
+\contentsline {subsection}{\numberline {4.2}Advisory Board}{17}{subsection.111}
+\contentsline {subsection}{\numberline {4.3}Faculty}{17}{subsection.112}
+\contentsline {subsection}{\numberline {4.4}Staff}{19}{subsection.114}
+\contentsline {subsection}{\numberline {4.5}ICTS Guests}{24}{subsection.116}
