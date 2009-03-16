@@ -356,9 +356,12 @@ class MainFrame(wx.Frame):
         (size_X, size_Y) = sizeFullScreen
 
         if size_X < size_Y:
-            aux = size_X
-            size_X = size_Y
+            aux = size_X-10
+            size_X = size_Y-10
             size_Y = aux
+	else:
+	    size_X = size_X - 10
+	    size_Y = size_Y - 10
         
         sizer_main = wx.BoxSizer(wx.HORIZONTAL)
         sizer_main.Add(self.main_panel, size_Y/((size_X-size_Y)*1.0), wx.EXPAND, 0)
