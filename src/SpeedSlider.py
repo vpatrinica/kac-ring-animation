@@ -46,7 +46,7 @@ class SpeedSlider(wx.Panel):
         self.panel_dummy = wx.Panel(self, -1)
 
         self.slider.Bind(wx.EVT_SLIDER, self.OnValueChanged)
-	self.__set_properties_(def_value)
+        self.__set_properties_(def_value)
         self.__do_layout_()
         
     def __set_properties_(self, default_value):
@@ -58,11 +58,11 @@ class SpeedSlider(wx.Panel):
         """
         
         font1 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
-	self.value.SetFont(font1)
+        self.value.SetFont(font1)
         self.text.SetFont(font1)
-	self.slider.SetValue(default_value)
-	self.value.ChangeValue(str(default_value))
-	self.value.SetEditable(0)
+        self.slider.SetValue(default_value)
+        self.value.ChangeValue(str(default_value))
+        self.value.SetEditable(0)
 
 
         
@@ -72,17 +72,19 @@ class SpeedSlider(wx.Panel):
         @param self: the default self parameter
         """
 
+        self.SetSizer(density_widget_sizer)
+
         speed_widget_sizer = wx.BoxSizer(wx.VERTICAL)
         speed_widget_sizer_horiz = wx.BoxSizer(wx.HORIZONTAL)
         
-	speed_widget_sizer.Add(self.slider, 1, wx.EXPAND)
- 	speed_widget_sizer_horiz.Add(self.text, 1, wx.EXPAND)
-        speed_widget_sizer_horiz.Add(self.value, 1, wx.EXPAND)
-
-	speed_widget_sizer.Add(self.text, 1, wx.EXPAND)
         speed_widget_sizer.Add(self.slider, 1, wx.EXPAND)
-        speed_widget_sizer.Add(speed_widget_sizer_horiz, 1, wx.EXPAND)
-        speed_widget_sizer.Add(self.panel_dummy, 1, wx.EXPAND)
+        speed_widget_sizer.Add(self.text, 1, wx.EXPAND)
+        #speed_widget_sizer.Add(self.value, 1, wx.EXPAND)
+        #
+        #speed_widget_sizer.Add(self.text, 1, wx.EXPAND)
+        #speed_widget_sizer.Add(self.slider, 1, wx.EXPAND)
+        #speed_widget_sizer.Add(speed_widget_sizer_horiz, 1, wx.EXPAND)
+        #speed_widget_sizer.Add(self.panel_dummy, 1, wx.EXPAND)
   
         self.SetSizer(speed_widget_sizer)
         
@@ -102,7 +104,7 @@ class SpeedSlider(wx.Panel):
         @param self: the default self parameter
         @param new_value: the new value of the speed, integer between 1 and 100
         """
-     	self.value.ChangeValue(str(new_value))
+        self.value.ChangeValue(str(new_value))
         self.slider.SetValue(new_value)        
         
 
