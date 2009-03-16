@@ -20,8 +20,8 @@
 
 import wx
 from numpy import *
-from scipy.misc import pilutil
 from PIL import Image
+from scipy.misc import toimage
 import Utils
 
 ##################################################################################################################
