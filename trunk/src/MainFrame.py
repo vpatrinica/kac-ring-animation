@@ -66,13 +66,13 @@ class MainFrame(wx.Frame):
         
         #self.panel_dummy_1 = wx.Panel(self.control_panel, -1)        
         self.bitmap_button_PlayBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_rewind.png", wx.BITMAP_TYPE_ANY))
-	#self.panel_dummy_2 = wx.Panel(self.control_panel, -1)
+        #self.panel_dummy_2 = wx.Panel(self.control_panel, -1)
 
         self.bitmap_button_FrameBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_back.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_3 = wx.Panel(self.control_panel, -1)
 
         self.bitmap_button_Stop = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_stop.png", wx.BITMAP_TYPE_ANY))
-	#self.panel_dummy_4 = wx.Panel(self.control_panel, -1)
+        #self.panel_dummy_4 = wx.Panel(self.control_panel, -1)
 
         self.bitmap_button_FrameNext = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_play.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_5 = wx.Panel(self.control_panel, -1)
@@ -83,7 +83,7 @@ class MainFrame(wx.Frame):
 
 
         self.panel_dummy_7 = wx.Panel(self.control_panel, -1)
-	self.button_Restart = wx.Button(self.control_panel, -1, "    Restart animation    ")
+        self.button_Restart = wx.Button(self.control_panel, -1, "    Restart animation    ")
         self.panel_dummy_8 = wx.Panel(self.control_panel, -1)
 
 
@@ -104,7 +104,7 @@ class MainFrame(wx.Frame):
 
         self.panel_dummy_15 = wx.Panel(self.control_panel, -1)
         self.slider_size = SizeSlider.SizeSlider(self.control_panel, -1, self.def_size)
-	self.panel_dummy_16 = wx.Panel(self.control_panel, -1)
+        self.panel_dummy_16 = wx.Panel(self.control_panel, -1)
 
 
         self.panel_dummy_17 = wx.Panel(self.control_panel, -1)
@@ -305,23 +305,22 @@ class MainFrame(wx.Frame):
         @param self: the default self parameter
         @param event: the event handled by the method
         """
-	#dialog to verify exit (including menuExit)
-	#the cleanup is no longer forced, the core seems not to dump anymore :)
-	dlg = wx.MessageDialog(self, "Exit Animation?", "Exit", wx.YES_NO | wx.ICON_QUESTION)
-	if dlg.ShowModal() == wx.ID_YES:
-	        self.forwtimer.Stop()
-	        self.backtimer.Stop()
-		children = self.GetChildren()
-        	for child in children:
-			#print child
-            		child.Destroy()
-            		#del child
-		dlg.Destroy()
-        	self.Destroy()
-		#del self
-	else:	
-		dlg.Destroy()
-	
+    #dialog to verify exit (including menuExit)
+    #the cleanup is no longer forced, the core seems not to dump anymore :)
+        dlg = wx.MessageDialog(self, "Exit Animation?", "Exit", wx.YES_NO | wx.ICON_QUESTION)
+        if dlg.ShowModal() == wx.ID_YES:
+            self.forwtimer.Stop()
+            self.backtimer.Stop()
+            children = self.GetChildren()
+            for child in children:
+                #print child
+                child.Destroy()
+                #del child
+                dlg.Destroy()
+                self.Destroy()
+                #del self
+        else:	
+            dlg.Destroy()
 
     def __set_properties(self):
         """
@@ -411,7 +410,7 @@ class MainFrame(wx.Frame):
         sizer_controls.Add(sizer_reset, 1, wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 0)
 
         #sizer_speed_vertical.Add(self.label_speed, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
-	sizer_speed.Add(self.panel_dummy_11, 1, wx.EXPAND, 0)
+        sizer_speed.Add(self.panel_dummy_11, 1, wx.EXPAND, 0)
         sizer_speed.Add(self.slider_speed, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         sizer_speed.Add(self.panel_dummy_12, 1, wx.EXPAND, 0)
 
