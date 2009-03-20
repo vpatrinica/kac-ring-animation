@@ -305,8 +305,8 @@ class MainFrame(wx.Frame):
         @param self: the default self parameter
         @param event: the event handled by the method
         """
-    #dialog to verify exit (including menuExit)
-    #the cleanup is no longer forced, the core seems not to dump anymore :)
+	#dialog to verify exit (including menuExit)
+	#the cleanup is no longer forced, the core seems not to dump anymore :)
         dlg = wx.MessageDialog(self, "Exit Animation?", "Exit", wx.YES_NO | wx.ICON_QUESTION)
         if dlg.ShowModal() == wx.ID_YES:
             self.forwtimer.Stop()
