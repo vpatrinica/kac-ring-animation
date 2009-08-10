@@ -57,7 +57,7 @@ class SpeedSlider(wx.Panel):
         @param default_value: the default value of the density, integer from 1 to 100 
         """
         
-        font1 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
+        font1 = wx.Font(10, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
         self.value.SetFont(font1)
         self.text.SetFont(font1)
         self.slider.SetValue(default_value)

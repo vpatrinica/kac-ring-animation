@@ -56,7 +56,7 @@ class Superscript(wx.Panel):
         supDC = wx.ClientDC(self)
         supDC.BeginDrawing()
 
-        xml_str1 = ('<font size="14" style="italic" family="swiss" color="black" weight="bold" >'
+        xml_str1 = ('<font size="10" style="italic" family="swiss" color="black" weight="bold" >'
 '2<sup>')
         
         xml_str2 = ('</sup></font>')
@@ -81,7 +81,7 @@ class Superscript(wx.Panel):
         supDC = wx.ClientDC(self)
         supDC.BeginDrawing()
         
-        xml_str1 = ('<font size="14" style="italic" family="swiss" color="black" weight="bold" >'
+        xml_str1 = ('<font size="10" style="italic" family="swiss" color="black" weight="bold" >'
 '2<sup>')
         
         xml_str2 = ('</sup></font>')
