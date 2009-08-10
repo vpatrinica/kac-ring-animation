@@ -42,7 +42,7 @@ class MyApp(wx.App):
         start_args = (0.04, 10, wx.Color(255, 0, 0))
         App_args = Utils.InitialComputation(min([sizeX]+[sizeY])-40, start_args)
         self._MainFrame = MainFrame.MainFrame(None, -1, "An image on a panel", App_args)
-        #self._MainFrame.ShowFullScreen(True)
+        self._MainFrame.Show(True)
         self.SetTopWindow(self._MainFrame)
         return True
 

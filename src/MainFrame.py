@@ -19,6 +19,10 @@
 ##################################################################################################################
 
 import wx
+import wx.lib.buttons as buttons
+import cStringIO
+
+import PyCollapsiblePane as PCP
 
 import Canvas, SpeedSlider, DensitySlider, SizeSlider, SuperScript, Utils
 
@@ -65,19 +69,19 @@ class MainFrame(wx.Frame):
         
         
         #self.panel_dummy_1 = wx.Panel(self.control_panel, -1)        
-        self.bitmap_button_PlayBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_rewind.png", wx.BITMAP_TYPE_ANY))
+        #self.bitmap_button_PlayBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_rewind.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_2 = wx.Panel(self.control_panel, -1)
 
-        self.bitmap_button_FrameBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_back.png", wx.BITMAP_TYPE_ANY))
+        #self.bitmap_button_FrameBack = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_back.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_3 = wx.Panel(self.control_panel, -1)
 
-        self.bitmap_button_Stop = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_stop.png", wx.BITMAP_TYPE_ANY))
+        #self.bitmap_button_Stop = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_stop.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_4 = wx.Panel(self.control_panel, -1)
 
-        self.bitmap_button_FrameNext = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_play.png", wx.BITMAP_TYPE_ANY))
+        #self.bitmap_button_FrameNext = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_play.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_5 = wx.Panel(self.control_panel, -1)
 
-        self.bitmap_button_PlayNext = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_fastforward.png", wx.BITMAP_TYPE_ANY))
+        #self.bitmap_button_PlayNext = wx.BitmapButton(self.control_panel, -1, wx.Bitmap("../pngs/control_fastforward.png", wx.BITMAP_TYPE_ANY))
         #self.panel_dummy_6 = wx.Panel(self.control_panel, -1)
 
 
@@ -93,17 +97,20 @@ class MainFrame(wx.Frame):
 
 
         self.panel_dummy_11 = wx.Panel(self.control_panel, -1)
-        self.slider_speed = SpeedSlider.SpeedSlider(self.control_panel, -1, self.def_speed)
+        #self.slider_speed = SpeedSlider.SpeedSlider(self.control_panel, -1, self.def_speed)
+	self.slider_speed =wx.Button(self.control_panel, -1, "Speed") 
         self.panel_dummy_12 = wx.Panel(self.control_panel, -1)
 
 
         self.panel_dummy_13 = wx.Panel(self.control_panel, -1)
-        self.slider_density = DensitySlider.DensitySlider(self.control_panel, -1, self.def_density)
+        #self.slider_density = DensitySlider.DensitySlider(self.control_panel, -1, self.def_density)
+	self.slider_density = wx.Button(self.control_panel, -1, "Density")
         self.panel_dummy_14 = wx.Panel(self.control_panel, -1)
 
 
         self.panel_dummy_15 = wx.Panel(self.control_panel, -1)
-        self.slider_size = SizeSlider.SizeSlider(self.control_panel, -1, self.def_size)
+        #self.slider_size = SizeSlider.SizeSlider(self.control_panel, -1, self.def_size)
+	self.slider_size =  wx.Button(self.control_panel, -1, "Size")
         self.panel_dummy_16 = wx.Panel(self.control_panel, -1)
 
 
@@ -127,12 +134,12 @@ class MainFrame(wx.Frame):
         self.Bind(wx.EVT_TIMER, self.panel_canvas.OnNextFrame, id = tid_forward)
         self.Bind(wx.EVT_TIMER, self.panel_canvas.OnBackFrame, id = tid_backward)
         
-        self.bitmap_button_PlayNext.Bind(wx.EVT_BUTTON, self.OnPlayNext)
-        self.bitmap_button_PlayBack.Bind(wx.EVT_BUTTON, self.OnPlayBack)
-        self.bitmap_button_Stop.Bind(wx.EVT_BUTTON, self.OnStop)
+        #self.bitmap_button_PlayNext.Bind(wx.EVT_BUTTON, self.OnPlayNext)
+        #self.bitmap_button_PlayBack.Bind(wx.EVT_BUTTON, self.OnPlayBack)
+        #self.bitmap_button_Stop.Bind(wx.EVT_BUTTON, self.OnStop)
         
-        self.bitmap_button_FrameNext.Bind(wx.EVT_BUTTON, self.OnFrameNext)
-        self.bitmap_button_FrameBack.Bind(wx.EVT_BUTTON, self.OnFrameBack)
+        #self.bitmap_button_FrameNext.Bind(wx.EVT_BUTTON, self.OnFrameNext)
+        #self.bitmap_button_FrameBack.Bind(wx.EVT_BUTTON, self.OnFrameBack)
 
         self.button_Restart.Bind(wx.EVT_BUTTON, self.OnRestart)
         self.button_ResetDefault.Bind(wx.EVT_BUTTON, self.OnResetDefault)
@@ -330,14 +337,14 @@ class MainFrame(wx.Frame):
         """
 
         self.SetTitle("Kac Ring Animation")
-        self.bitmap_button_PlayBack.SetSize(self.bitmap_button_PlayBack.GetBestSize())
-        self.bitmap_button_FrameBack.SetSize(self.bitmap_button_FrameBack.GetBestSize())
-        self.bitmap_button_Stop.SetSize(self.bitmap_button_Stop.GetBestSize())
-        self.bitmap_button_FrameNext.SetSize(self.bitmap_button_FrameNext.GetBestSize())
-        self.bitmap_button_PlayNext.SetSize(self.bitmap_button_PlayNext.GetBestSize())
+        #self.bitmap_button_PlayBack.SetSize(self.bitmap_button_PlayBack.GetBestSize())
+        #self.bitmap_button_FrameBack.SetSize(self.bitmap_button_FrameBack.GetBestSize())
+        #self.bitmap_button_Stop.SetSize(self.bitmap_button_Stop.GetBestSize())
+        #self.bitmap_button_FrameNext.SetSize(self.bitmap_button_FrameNext.GetBestSize())
+        #self.bitmap_button_PlayNext.SetSize(self.bitmap_button_PlayNext.GetBestSize())
         self.button_Restart.SetSize(self.button_Restart.GetBestSize())
         self.button_ResetDefault.SetSize(self.button_ResetDefault.GetBestSize())
-        font1 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
+        font1 = wx.Font(10, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
         self.button_Restart.SetFont(font1)
         self.button_ResetDefault.SetFont(font1)
         self.label_colour.SetFont(font1)
@@ -364,13 +371,14 @@ class MainFrame(wx.Frame):
 	    size_Y = size_Y - 10
         
         sizer_main = wx.BoxSizer(wx.HORIZONTAL)
-        sizer_main.Add(self.main_panel, size_Y/((size_X-size_Y)*1.0), wx.EXPAND, 0)
+        #sizer_main.Add(self.main_panel, size_Y/((size_X-size_Y)*1.0), wx.EXPAND, 0)
+	sizer_main.Add(self.main_panel, 4, wx.EXPAND, 0)
         sizer_main.Add(self.control_panel, 1, wx.EXPAND)
         
         sizer_canvas = wx.BoxSizer(wx.HORIZONTAL)
         sizer_controls = wx.BoxSizer(wx.VERTICAL)
 
-        sizer_play_buttons = wx.BoxSizer(wx.HORIZONTAL)
+        #sizer_play_buttons = wx.BoxSizer(wx.HORIZONTAL)
         
         sizer_restart = wx.BoxSizer(wx.HORIZONTAL)
         sizer_reset = wx.BoxSizer(wx.HORIZONTAL)
@@ -385,18 +393,19 @@ class MainFrame(wx.Frame):
         sizer_canvas.Add(self.panel_canvas, 1, wx.ALIGN_CENTER_HORIZONTAL, 0)
         
         #sizer_play_buttons.Add(self.panel_dummy_1, 1, wx.EXPAND, 0)
-        sizer_play_buttons.Add(self.bitmap_button_PlayBack, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
+        #sizer_play_buttons.Add(self.bitmap_button_PlayBack, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         #sizer_play_buttons.Add(self.panel_dummy_2, 1, wx.EXPAND, 0)
-        sizer_play_buttons.Add(self.bitmap_button_FrameBack, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
+        
+        #sizer_play_buttons.Add(self.bitmap_button_FrameBack, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         #sizer_play_buttons.Add(self.panel_dummy_3, 1, wx.EXPAND, 0)
-        sizer_play_buttons.Add(self.bitmap_button_Stop, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
+        #sizer_play_buttons.Add(self.bitmap_button_Stop, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         #sizer_play_buttons.Add(self.panel_dummy_4, 1, wx.EXPAND, 0)
-        sizer_play_buttons.Add(self.bitmap_button_FrameNext, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
+        #sizer_play_buttons.Add(self.bitmap_button_FrameNext, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         #sizer_play_buttons.Add(self.panel_dummy_5, 1, wx.EXPAND, 0)
-        sizer_play_buttons.Add(self.bitmap_button_PlayNext, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
+        #sizer_play_buttons.Add(self.bitmap_button_PlayNext, 0, wx.ALL|wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 5)
         #sizer_play_buttons.Add(self.panel_dummy_6, 1, wx.EXPAND, 0)
         
-        sizer_controls.Add(sizer_play_buttons, 1, wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 0)
+        #sizer_controls.Add(sizer_play_buttons, 1, wx.EXPAND|wx.ALIGN_CENTER_HORIZONTAL|wx.ALIGN_CENTER_VERTICAL, 0)
 
 
         sizer_restart.Add(self.panel_dummy_7, 1, wx.EXPAND, 0)

@@ -55,8 +55,8 @@ class DensitySlider(wx.Panel):
         @param default_value: the default value of the density, float from 0 to 1 
         """
         self.value.SetValue(str(default_value))
-        font1 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
-        font2 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
+        font1 = wx.Font(10, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
+        font2 = wx.Font(10, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
         self.text.SetFont(font1)
         self.value.SetFont(font1)
         self.slider.SetValue(int(log(default_value*1000+1)*1000/log(1001)))

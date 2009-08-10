@@ -47,7 +47,7 @@ class Canvas(wx.Panel):
             sideY = aux
 
         wx.Panel.__init__(self, parent, -1, size = (sideY, sideY))
-        (self.c, self.lut, self.k, self.rindex, self.sindex) = app_args
+        #(self.c, self.lut, self.k, self.rindex, self.sindex) = app_args
 
 
     def OnRepaint(self):

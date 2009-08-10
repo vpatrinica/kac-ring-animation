@@ -82,7 +82,7 @@ def InitialComputation(size, basic_args):
     rindex = empty((P,P), dtype=intp)
     sindex = empty((P,P), dtype=intp)
 
-    for i in range(P):
+    """    for i in range(P):
         for j in range(P):
             x = i-P/2.0
             y = j-P/2.0
@@ -110,7 +110,7 @@ def InitialComputation(size, basic_args):
     red_th = colour.Red()
     green_th =colour.Green()
     blue_th = colour.Blue()
-    
+    """    
 
     def low_pass(i, low_pass_th):
         """
@@ -181,12 +181,14 @@ def InitialComputation(size, basic_args):
         @return: the triplet of the RGB values for the given index
         """
         return (decide(red_t, i), decide(green_t, i), decide(blue_t, i))
-
+    """
     def list_col(i):
-        """
+        \"""
         @param i: the index of the pixel
         @return: the RGB triplet of the given pixel
-        """
+        \"""
+        
+        
         if red_th >= green_th:
             if green_th >=blue_th:
                 return [low_pass(i, red_th), band_pass(i, green_th, 255), high_pass(i, blue_th, 255)]
@@ -212,7 +214,7 @@ def InitialComputation(size, basic_args):
     lut.extend([0,0,0])  # Black
 
 
-    return (c, lut, k, rindex, sindex)
+    return (c, lut, k, rindex, sindex)"""
 
 
 def PILtoImage(pil, alpha=True):

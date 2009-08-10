@@ -54,7 +54,7 @@ class SizeSlider(wx.Panel):
         @param default_value: the default value of the exponent(size)
         """
         self.value.SetValue(str(default_value))
-        font1 = wx.Font(14, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
+        font1 = wx.Font(10, wx.SWISS, wx.NORMAL, wx.NORMAL, False, u'Comic Sans MS')
         self.text.SetFont(font1)
 
         self.slider.SetValue(default_value)
