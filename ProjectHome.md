@@ -1,0 +1,1 @@
+This project will consist from a simple GUI and an animation in Python.
